@@ -1,5 +1,4 @@
 print("Hello World")
-print("2025")
-print(2025)
-print("My wallet has $100")
-print("Bye,End of Class")
+print("My favourite food is ")
+print("My birthday is 27 July")
+
