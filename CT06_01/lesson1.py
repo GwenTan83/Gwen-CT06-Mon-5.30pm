@@ -1,5 +1,5 @@
 print(2025)
-print("My wallet has ")
+print("My wallet has $,100,")
 print("Hello World")
 print("My favourite food is ice cream")
 print("My birthday is 27 July")
