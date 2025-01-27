@@ -4,7 +4,7 @@ blue=2*5
 green=3*4
 print("red+green+blue")
 reply=input("What is your name?")
-print("Hello"+reply)
+print("Hello "+reply)
 reply=input("tom")
 print(reply)
 reply=input("What is your favourite colour?")
