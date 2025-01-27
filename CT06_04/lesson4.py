@@ -18,7 +18,6 @@ print("Hello from lesson 4")
 name=input("What is your name?")
 print("Hey,"+name)
 reply=input("What is your favourite hobby?")
-print(reply)
 print("I enjoy [hobby]?")
 reply=input("What is your dream vacation destination?")
 
