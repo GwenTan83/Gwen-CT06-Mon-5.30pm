@@ -11,4 +11,4 @@ reply=input("What is your age?")
 print(reply)
 counter=500
 print(counter*reply)
-#name=
+#name=input("What is your name?")
