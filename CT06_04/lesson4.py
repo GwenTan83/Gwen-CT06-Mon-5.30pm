@@ -9,3 +9,4 @@ reply=input("What is your name?")
 print(reply)
 reply=input("What is your favourite colour?")
 print(reply)
+print
