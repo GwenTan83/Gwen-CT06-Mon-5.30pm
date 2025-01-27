@@ -21,5 +21,5 @@ reply=input("What is your favourite hobby?")
 print(reply)
 print("I enjoy [hobby]?")
 reply=input("What is your dream vacation destination?")
-print(reply)
-print ("I would like to visit")
+
+print ("I would like to visit" + reply)
