@@ -1,6 +1,6 @@
 print("Hello from lesson 4")
 # red=1
-# red=3*red
+# red=$3*red
 # blue=2
 # blue=blue*5
 # green=3
