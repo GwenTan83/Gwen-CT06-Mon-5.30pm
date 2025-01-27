@@ -13,4 +13,4 @@ counter=500
 print(counter*reply)
 #name=input("What is your name?")
 print("Hey,"+name)
-reply=input("")
+reply=input("What is your favourite hobby?")
