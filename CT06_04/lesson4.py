@@ -11,7 +11,8 @@ reply=input("What is your age?")
 print(reply)
 counter=500
 print(counter*reply)
-#name=input("What is your name?")
+
+name=input("What is your name?")
 print("Hey,"+name)
 reply=input("What is your favourite hobby?")
 print(reply)
