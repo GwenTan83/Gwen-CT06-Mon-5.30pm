@@ -20,5 +20,5 @@ reply=input("What is your favourite hobby?")
 print("I enjoy " + reply)
 reply=input("What is your dream vacation destination?")
 print ("I would like to visit" + reply)
-print("Total Cost:$" + qty * amt)
+print("Total Cost:$" , qty * amt)
  
