@@ -7,3 +7,4 @@ reply=input("What is your name?")
 print("Hello"+reply)
 reply=input("What is your name?")
 print(reply)
+reply
