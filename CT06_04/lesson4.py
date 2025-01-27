@@ -5,4 +5,4 @@ green=3
 red=3*1
 blue=2*5
 green=3*4
-red
+red+green+blue
