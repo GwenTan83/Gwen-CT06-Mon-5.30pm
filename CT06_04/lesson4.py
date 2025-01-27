@@ -16,3 +16,4 @@ print("Hey,"+name)
 reply=input("What is your favourite hobby?")
 print(reply)
 print("I enjoy [hobby]?")
+reply=input
