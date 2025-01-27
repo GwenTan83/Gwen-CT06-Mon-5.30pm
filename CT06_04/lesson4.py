@@ -12,5 +12,5 @@ print(reply)
 counter=500
 print(counter*reply)
 #name=input("What is your name?")
-print(Gw)
+name=Gwen
 print("Hey,"+name)
