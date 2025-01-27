@@ -7,6 +7,6 @@ reply=input("What is your name?")
 print("Hello"+reply)
 reply=input("What is your favourite colour?")
 print("Hello"+reply)
-rep
+reply=input()
 counter=500
 print(counter*reply)
