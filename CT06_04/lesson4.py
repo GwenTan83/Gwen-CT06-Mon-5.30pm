@@ -10,3 +10,4 @@ print(reply)
 reply=input("What is your favourite colour?")
 print(reply)
 counter=500
+print(counter)
