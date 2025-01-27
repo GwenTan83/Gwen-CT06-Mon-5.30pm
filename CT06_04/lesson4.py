@@ -1,5 +1,6 @@
 print("Hello from lesson 4")
-red=3*1
+red=1
+red=3*red
 blue=2*5
 green=3*4
 print(red+green+blue)
