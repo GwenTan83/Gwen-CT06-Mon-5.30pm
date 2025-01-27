@@ -11,3 +11,4 @@ reply=input("What is your age?")
 print(reply)
 counter=500
 print(counter*reply)
+
