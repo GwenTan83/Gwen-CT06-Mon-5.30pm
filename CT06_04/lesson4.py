@@ -1,10 +1,10 @@
 print("Hello from lesson 4")
 # red=1
-# red=$3*red
+# red=3*red
 # blue=2
 # blue=blue*5
 # green=3
-# green=green*$4
+# green=green*4
 # print(red+green+blue)
 # reply=input("What is your name?")
 # print("Hello"+reply)
