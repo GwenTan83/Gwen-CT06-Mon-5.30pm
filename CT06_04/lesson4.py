@@ -8,5 +8,6 @@ print("Hello"+reply)
 reply=input("What is your favourite colour?")
 print(reply)
 reply=input("What is your age?")
+print()
 counter=500
 print(counter*reply)
