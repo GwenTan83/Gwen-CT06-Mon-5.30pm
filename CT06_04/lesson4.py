@@ -12,10 +12,10 @@ print(reply)
 counter=500
 print(counter*reply)
 #name=input("What is your name?")
-print("Hey,"+name) # type: ignore
+print("Hey,"+name)
 reply=input("What is your favourite hobby?")
 print(reply)
 print("I enjoy [hobby]?")
 reply=input("What is your dream vacation destination?")
 print(reply)
-print ("I would like to visit")
+print ()
