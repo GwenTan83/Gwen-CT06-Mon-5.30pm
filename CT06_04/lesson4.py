@@ -20,5 +20,17 @@ reply=input("What is your favourite hobby?")
 print("I enjoy " + reply)
 reply=input("What is your dream vacation destination?")
 print ("I would like to visit" + reply)
-print("Total Cost:$" , qty * amt)
- 
+Cost=$17.95
+print("Cost:$ ," qty * amt)
+age=int(input("What is your age?"))
+num1=14
+num2=50
+ans=num1+num2
+print(str(num1)+"+"+str(num2)+"="+str(ans))
+age=input("What is your age?")
+print("Your age next year is: "+ str(int(age)+1))
+year_born=input("What year are you born in?")
+year_born=int(year_born)
+current_year=2025
+age=current_year - year_born
+print("This year, you are " + str(age) + "years old")
