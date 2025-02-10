@@ -128,4 +128,5 @@
 #     45
 for num in rang (10):
     sum=sum+x
-    
+    x=x+1
+    p
