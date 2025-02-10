@@ -83,7 +83,7 @@
 # 2. stop
 
 # Write a 'for' loop to count from **start** to **stop**
-start = input("What is the starting number? ")
+start = int(input("What is the starting number? "))
 stop = input("What is the stopping number? ")
 for i in range(start, stop + 1):
     print(i)
