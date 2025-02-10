@@ -32,5 +32,5 @@ for number in range(1,6):
 for number in range(51,101):
     print(number)
 for number in range(2,5,2):
-    print
+    print(number)
 
