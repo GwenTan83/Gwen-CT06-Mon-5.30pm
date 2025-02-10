@@ -72,9 +72,9 @@
 # **Task 7b**:
 # Create a countdown timer that counts from 10 to 1.
 # When the timer hits 1, print "Boo!"
-for number in range(10,0,-1):
-    print(number)
-print("Boo!")
+# for number in range(10,0,-1):
+#     print(number)
+# print("Boo!")
 ## Task 8: User-Defined Range Counter
 
 # Using input(), ask the user for 2 numbers and store them in the
