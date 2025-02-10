@@ -74,4 +74,4 @@ for number in range(3,0,-1):
 # When the timer hits 1, print "Boo!"
 for number in range(10,0,-1):
     print(number)
-print("")
+print("Boo!")
