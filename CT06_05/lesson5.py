@@ -88,7 +88,7 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
-input
+input()
 
 # Note:
 # What happens if the user inputs a higher start number than stop?
