@@ -37,5 +37,3 @@ for number in range(18,30):
 ##Task 5
 # for number in range(2,5,2):
 #     print(number)
-
-
