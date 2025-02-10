@@ -87,8 +87,6 @@
 # stop = int(input("What is the stopping number? "))
 # for i in range(start, stop + 1):
 #     print(i)
-
-
 # Note:
 # What happens if the user inputs a higher start number than stop?
 # Modify your code to be able to handle that scenario.
