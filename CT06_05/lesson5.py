@@ -27,7 +27,7 @@
 # for count in range(100):
 #     print("I like cake.")
 #     print("Give me more")
-##t
+##Task 4
 # for number in range(1,6):
 #     print(number)
 # for number in range(51,101):
@@ -36,4 +36,5 @@ for number in range(18,30):
     print(number)
 # for number in range(2,5,2):
 #     print(number)
+
 
