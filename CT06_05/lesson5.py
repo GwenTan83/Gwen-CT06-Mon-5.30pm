@@ -48,6 +48,7 @@ for number in range(2,25,2):
 
 # **Task 6b**:
 # Use a 'for' loop to print numbers from 8 to 96 in multiples of 8.
-
+for number in range (8,97,8):
+     print(number)
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
