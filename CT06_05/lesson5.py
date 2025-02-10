@@ -127,4 +127,5 @@
 #     36
 #     45
 for num in rang (10):
+    sum=sum+x
     
