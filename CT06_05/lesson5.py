@@ -54,3 +54,19 @@
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
 # for number in range (5,0,-1):
 #     print(number)
+## Task 7: Countdown timer
+
+# **Task 7a**:
+# Imagine you are the race official and to start the race, you
+# must say the following:
+
+#     Ready!
+#     3
+#     2
+#     1
+
+# Using a 'for' loop, recreate the above sequence.
+
+# **Task 7b**:
+# Create a countdown timer that counts from 10 to 1.
+# When the timer hits 1, print "Boo!"
