@@ -27,12 +27,12 @@
 # for count in range(100):
 #     print("I like cake.")
 #     print("Give me more")
-for number in range(1,6):
-    print(number)
-for number in range(51,101):
-    print(number)
+# for number in range(1,6):
+#     print(number)
+# for number in range(51,101):
+#     print(number)
 for number in range(18,29):
     print(number)
-for number in range(2,5,2):
-    print(number)
+# for number in range(2,5,2):
+#     print(number)
 
