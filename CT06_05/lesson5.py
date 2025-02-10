@@ -32,8 +32,8 @@
 #     print(number)
 # for number in range(51,101):
 #     print(number)
-for number in range(18,30):
-    print(number)
+# for number in range(18,30):
+#     print(number)
 ##Task 5
 # for number in range(2,5,2):
 #     print(number)
