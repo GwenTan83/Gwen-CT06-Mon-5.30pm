@@ -24,8 +24,8 @@
 # for count in range(100):
 #     print("I like chicken rice.")
 
-for count in range(100):
-    print("I like cake.")
-    print("Give me more")
+# for count in range(100):
+#     print("I like cake.")
+#     print("Give me more")
 loop(1,6)
 
