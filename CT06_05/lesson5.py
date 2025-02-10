@@ -52,5 +52,5 @@ for number in range(18,30):
 #      print(number)
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
-for number in range (5,0):
+for number in range (5,0,-1):
     print(number)
