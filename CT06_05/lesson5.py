@@ -37,3 +37,15 @@ for number in range(18,30):
 ##Task 5
 # for number in range(2,5,2):
 #     print(number)
+
+
+# ## Task 6: range(start, stop, step)
+
+# **Task 6a**:
+# Use a 'for' loop to print numbers from 2 to 24 in multiples of 2.
+
+# **Task 6b**:
+# Use a 'for' loop to print numbers from 8 to 96 in multiples of 8.
+
+# **Task 6c**:
+# Use a 'for' loop to print numbers from 5 to 1 in descending order.
