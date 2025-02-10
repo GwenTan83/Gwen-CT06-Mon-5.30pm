@@ -67,6 +67,7 @@
 
 # Using a 'for' loop, recreate the above sequence.
 print("Ready!")
+for number in range(3,0,-1):
 # **Task 7b**:
 # Create a countdown timer that counts from 10 to 1.
 # When the timer hits 1, print "Boo!"
