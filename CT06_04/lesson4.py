@@ -34,4 +34,3 @@ year_born=int(year_born)
 current_year=2025
 age=current_year - year_born
 print("This year, you are " + str(age) + "years old")
-##Tas
