@@ -29,4 +29,6 @@
 #     print("Give me more")
 for number in range(1,6):
     print(number)
+for number in range(51,101):
+    print
 
