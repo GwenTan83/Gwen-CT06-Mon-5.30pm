@@ -88,6 +88,8 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
+input
+
 # Note:
 # What happens if the user inputs a higher start number than stop?
 # Modify your code to be able to handle that scenario.
