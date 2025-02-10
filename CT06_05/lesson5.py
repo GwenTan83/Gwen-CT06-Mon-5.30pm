@@ -98,7 +98,7 @@ for i in range(start, stop + 1):
 # 3. Add the sum of 'num' and the loop's parameter and print out
 #    the value.
 # 4. Observe what happens.
-num
+
 # Example:
 # 1st iteration
 #     num = num + i
