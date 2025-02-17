@@ -21,5 +21,21 @@
 
 # **Task 1e**:
 # print ("Hello, World!")
+## Task 2: Name Errors
+# Fix the errors in the following:
 
+# **Task 2a**:
+age=10
+print(age)
+
+# **Task 2b**:
+# name = "Alice"
+# print(nam)
+
+# **Task 2c**:
+# print(x)
+# x = 5
+
+# **Task 2d**:
+# pint("Hello, World!")
 
