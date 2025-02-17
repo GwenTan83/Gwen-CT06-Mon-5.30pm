@@ -1,8 +1,8 @@
 print("Hello from lesson 6")
 
-numstudents=3
-sumscore=
+numstudents=int
+sumscore=0
 for i in range (numstudents):
-    score
+    score=int
 
 
