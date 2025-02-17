@@ -5,6 +5,6 @@ for i in range (numstudents):
     score=int(input("How much did this student score?"))
     sumScore=sumScore + score
 
-print()
+print(sumScore)
 
 
