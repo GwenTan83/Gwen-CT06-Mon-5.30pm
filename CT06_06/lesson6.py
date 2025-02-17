@@ -33,9 +33,8 @@
 # print(name)
 
 # **Task 2c**:
-print(x)
 x = 5
-
+print(x)
 # **Task 2d**:
 # print("Hello, World!")
 
