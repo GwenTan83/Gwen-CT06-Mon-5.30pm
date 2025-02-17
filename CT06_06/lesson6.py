@@ -1,4 +1,4 @@
-print("Hello from lesson 6")
+# 
 sumScore=0
 numstudents=int(input("How many students do you have?"))
 for i in range (numstudents):
