@@ -25,12 +25,12 @@
 # Fix the errors in the following:
 
 # **Task 2a**:
-age=10
-print(age)
+# age=10
+# print(age)
 
 # **Task 2b**:
 # name = "Alice"
-# print(nam)
+# print(name)
 
 # **Task 2c**:
 # print(x)
