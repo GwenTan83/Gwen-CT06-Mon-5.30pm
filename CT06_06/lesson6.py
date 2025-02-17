@@ -37,5 +37,5 @@ print(x)
 x = 5
 
 # **Task 2d**:
-# pint("Hello, World!")
+# print("Hello, World!")
 
