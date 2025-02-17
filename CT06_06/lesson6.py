@@ -8,4 +8,6 @@ for i in range(numStud):
 
 print(sumScore/numStud)
 
+for i in range(3):
+    print("Hello, World!")
 
