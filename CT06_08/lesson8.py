@@ -24,4 +24,4 @@ print("Hello from lesson 8")
 # print("Liftoff!")
 
 import random
-start=int(input)
+start=int(input(""))
