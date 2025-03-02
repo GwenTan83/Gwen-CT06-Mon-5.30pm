@@ -9,4 +9,4 @@ print("Hello from lesson 8")
 #    it out.
 for (i) in range(1, 6):
     userResponse= int(input("What is number #" + str(1) + "? "))
-    ans=ans 
+    ans=ans * userResponse
