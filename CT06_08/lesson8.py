@@ -10,5 +10,9 @@ print("Hello from lesson 8")
 ans = 1
 for (i) in range(1, 6):
     userResponse= int(input("What is number #" + str(1) + "? "))
-    ans=ans * userResponse
+    ans= ans * userResponse
 print("The product of the 5 numbers is" + str(ans))
+
+import time
+
+
