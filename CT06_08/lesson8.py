@@ -26,4 +26,5 @@ print("Hello from lesson 8")
 # import random
 # start=int(input(""))
 
-i
+import random
+
