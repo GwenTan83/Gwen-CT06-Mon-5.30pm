@@ -27,4 +27,5 @@ print("Hello from lesson 8")
 # start=int(input(""))
 
 import random
-var1=
+var1=3
+var2=8
