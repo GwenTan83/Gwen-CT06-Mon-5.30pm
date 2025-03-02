@@ -7,5 +7,5 @@ print("Hello from lesson 8")
 # 1. Using a for loop, ask the user for 5 numbers one at a time.
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
-for (i) in range(5):
-    print("")
+for (i) in range(1):
+    print("What ")
