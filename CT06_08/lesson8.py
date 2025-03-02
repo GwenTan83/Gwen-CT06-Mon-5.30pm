@@ -29,4 +29,4 @@ print("Hello from lesson 8")
 import random
 var1=3
 var2=8
-print("What is ")
+
