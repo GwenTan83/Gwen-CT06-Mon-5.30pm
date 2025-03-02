@@ -19,5 +19,5 @@ start = int(input("What number do you want to start from?"))
 
 for i in range(start, 0, -1):
     print(i)
-    time
+    time.sleep(1)
 
