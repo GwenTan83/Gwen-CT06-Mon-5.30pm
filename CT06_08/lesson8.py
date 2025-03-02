@@ -8,4 +8,4 @@ print("Hello from lesson 8")
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
 for (i) in range(1, 6):
-    user
+    userResponse= int
