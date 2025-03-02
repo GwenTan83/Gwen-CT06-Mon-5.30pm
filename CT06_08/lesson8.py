@@ -15,5 +15,7 @@ print("The product of the 5 numbers is" + str(ans))
 
 import time
 
-start = int(input("What number do you "))
+start = int(input("What number do you want to start from?"))
+
+
 
