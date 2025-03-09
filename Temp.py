@@ -7,3 +7,5 @@ end = int(input("10"))
 increment = int(input("2"))
 for i in range (start, end , increment):
     print(start,end,increment)
+
+start = 4
