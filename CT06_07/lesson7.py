@@ -5,5 +5,5 @@ E - Exponents
 M - Multiplication
 D - Division
 A - Addition
-S 
+S - Subtraction
 
