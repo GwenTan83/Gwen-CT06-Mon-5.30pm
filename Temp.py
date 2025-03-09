@@ -13,11 +13,12 @@ for i in range (start,end,increment):
 # increment = 7
 # for i in range(0,77,7):
 #     print(output)
-start = 0
-end = 77
-increment = 7
-for i in range (0,77,7):
-    print(output)
+# start = 0
+# end = 77
+# increment = 7
+# for i in range (0,77,7):
+#     print(output)
 Start = int(input("What is the first number?"))
 End = int(input("What is the second number?"))
 Increment = int(input("What is the third number?"))
+print
