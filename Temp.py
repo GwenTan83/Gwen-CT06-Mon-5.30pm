@@ -19,5 +19,11 @@
 # for i in range (0,77,7):
 #     print(output)
 # 
-batman = "10"
-robin = "2"
+# batman = "10"
+# robin = "2"
+
+
+age = 11
+name = "John"
+
+print(age + name)
