@@ -7,6 +7,6 @@ D - Division
 A - Addition
 S - Subtraction
 
-
+start = int(input())
 for i in range (start , stop , step):
     print(i)
