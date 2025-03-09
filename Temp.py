@@ -18,8 +18,5 @@
 # increment = 7
 # for i in range (0,77,7):
 #     print(output)
-# Start = int(input("What is the first number?"))
-# End = int(input("What is the second number?"))
-# Increment = int(input("What is the third number?"))
-# for i in range:
-#     print(i)
+# 
+batman = "10"
