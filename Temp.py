@@ -1,1 +1,1 @@
-int(input())
+int(input("WH"))
