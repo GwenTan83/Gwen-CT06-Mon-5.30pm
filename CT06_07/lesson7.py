@@ -7,3 +7,5 @@ D - Division
 A - Addition
 S - Subtraction
 
+for i in range (start , stop , step):
+    print 
