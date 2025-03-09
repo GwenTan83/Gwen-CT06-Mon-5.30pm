@@ -8,4 +8,5 @@ increment = int(input("2"))
 for i in range (start, end , increment):
     print(start,end,increment)
 
-start = 4
+start = 0
+end = 77
