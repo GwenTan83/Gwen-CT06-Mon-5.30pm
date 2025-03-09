@@ -2,8 +2,8 @@
 # print("Nice to meet you," + name + "!")
 
 
-start = int(input("4"))
-end = int(input("10"))
+start = int(input("0"))
+end = int(input("77"))
 increment = int(input("2"))
 for i in range (start, end , increment):
     print(start,end,increment)
