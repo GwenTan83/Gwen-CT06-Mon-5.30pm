@@ -22,4 +22,4 @@ Start = int(input("What is the first number?"))
 End = int(input("What is the second number?"))
 Increment = int(input("What is the third number?"))
 for i in range:
-    print
+    print(i)
