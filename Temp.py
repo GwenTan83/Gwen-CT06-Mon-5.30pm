@@ -19,3 +19,4 @@ increment = 7
 for i in range (0,77,7):
     print(output)
 start = int(input("What is a number?"))
+end = int(input())
