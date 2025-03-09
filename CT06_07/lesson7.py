@@ -1,11 +1,11 @@
-print("Hello from lesson 7")
-2 + 10 / 2
-P - Parenthesis
-E - Exponents
-M - Multiplication
-D - Division
-A - Addition
-S - Subtraction
+# print("Hello from lesson 7")
+# 2 + 10 / 2
+# P - Parenthesis
+# E - Exponents
+# M - Multiplication
+# D - Division
+# A - Addition
+# S - Subtraction
 
 # start = int(input("Enter number: "))
 # stop = int(input("Enter number: "))
