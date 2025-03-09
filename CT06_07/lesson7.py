@@ -14,4 +14,6 @@ for i in range (start , stop , step):
     print(i)
 start = int(input("Enter number: 4"))
 end = int(input("Enter number: 10"))
-increment = int(input("Enter number:"))
+increment = int(input("Enter number: 2"))
+for i in range (start, end , increment):
+    print
