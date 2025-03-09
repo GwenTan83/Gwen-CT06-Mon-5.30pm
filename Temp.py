@@ -2,11 +2,11 @@
 # print("Nice to meet you," + name + "!")
 
 
-start = int(input("0"))
-end = int(input("77"))
-increment = int(input("7"))
-for i in range (start,end,increment):
-    print(i)
+# start = int(input("0"))
+# end = int(input("77"))
+# increment = int(input("7"))
+# for i in range (start,end,increment):
+#     print(i)
 
 # start = 0
 # end = 77
