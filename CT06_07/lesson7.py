@@ -12,4 +12,4 @@ stop = int(input("Enter number: "))
 step = int(input("Enter number: "))
 for i in range (start , stop , step):
     print(i)
-start = int(input())
+start = int(input("Enter number: 4"))
