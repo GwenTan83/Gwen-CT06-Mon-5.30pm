@@ -18,4 +18,4 @@ end = 77
 increment = 7
 for i in range (0,77,7):
     print(output)
-start = int(input)
+start = int(input("What "))
