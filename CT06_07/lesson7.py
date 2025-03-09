@@ -1,3 +1,4 @@
 print("Hello from lesson 7")
-2 + 1
+2 + 10 / 2
+P
 
