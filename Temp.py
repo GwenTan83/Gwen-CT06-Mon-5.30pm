@@ -23,7 +23,10 @@
 # robin = "2"
 
 
-age = 11
-name = "John"
+# age = 11
+# name = "John"
 
-print(age + name)
+# print(age + name)
+x = '1'
+b = '1'
+c = x + b
