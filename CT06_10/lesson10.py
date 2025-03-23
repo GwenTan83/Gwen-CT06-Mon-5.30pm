@@ -12,4 +12,4 @@ if ans==0:
 else:
     print("This number is odd.")
 
-age = int(input)
+age = int(input("What is your age?"))
