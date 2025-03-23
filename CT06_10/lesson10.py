@@ -1,5 +1,5 @@
 # print("Hello from lesson 10")
-num = input(int("Give me a number."))
+num = input(int("What number do you want to check?"))
 if num>0:
     print("number is positive")
 else:
