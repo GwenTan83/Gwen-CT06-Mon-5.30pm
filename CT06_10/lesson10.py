@@ -5,7 +5,7 @@
 # else:
 #     print(str(num) + "number is negative")
 
-num = input(int("What number do you want to check?"))
+num = int(input("What number do you want to check?"))
 ans = num % 2
 if ans==0:
     print(str(num) + "This number is even.")
