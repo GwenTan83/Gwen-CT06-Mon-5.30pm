@@ -6,4 +6,3 @@ else:
     print(str(num)+ "number is negative")
 
 num = input(int("What number do you want to check?"))
-num
