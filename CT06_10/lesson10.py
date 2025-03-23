@@ -5,12 +5,12 @@
 # else:
 #     print(str(num) + "number is negative")
 
-num = int(input("What number do you want to check?"))
-ans = num % 2
-if ans==0:
-    print("This number is even.")
-else:
-    print("This number is odd.")
+# num = int(input("What number do you want to check?"))
+# ans = num % 2
+# if ans==0:
+#     print("This number is even.")
+# else:
+#     print("This number is odd.")
 
 age = int(input("What is your age?"))
 if age<13:
@@ -18,4 +18,4 @@ if age<13:
 if age<19:
     print("You are a teen.")
 else:
-    print
+    print("You are an adult.")
