@@ -13,3 +13,5 @@ else:
     print("This number is odd.")
 
 age = int(input("What is your age?"))
+if age<13:
+    
