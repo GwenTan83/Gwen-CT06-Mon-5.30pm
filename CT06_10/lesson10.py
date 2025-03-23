@@ -5,4 +5,4 @@ if num>0:
 else:
     print(str(num)+ "number is negative")
 
-num +
+num = input(int(""))
