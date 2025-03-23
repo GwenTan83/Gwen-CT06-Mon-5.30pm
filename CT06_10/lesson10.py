@@ -3,4 +3,4 @@ input(int("Give me a number."))
 if num>0:
     print("number is positive")
 else:
-    print()
+    print("number is negative")
