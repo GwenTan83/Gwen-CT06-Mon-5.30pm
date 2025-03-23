@@ -8,6 +8,6 @@
 num = int(input("What number do you want to check?"))
 ans = num % 2
 if ans==0:
-    print(str(num) + "This number is even.")
+    print("This number is even.")
 else:
-    print(str(num) + "This number is odd.")
+    print()"This number is odd.")
