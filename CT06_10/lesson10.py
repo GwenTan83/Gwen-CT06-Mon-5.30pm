@@ -15,3 +15,5 @@ else:
 age = int(input("What is your age?"))
 if age<13:
     print("You are a child.")
+else:
+    p
