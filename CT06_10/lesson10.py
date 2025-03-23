@@ -10,4 +10,4 @@ ans = num % 2
 if ans==0:
     print("This number is even.")
 else:
-    print()"This number is odd.")
+    print("This number is odd.")
