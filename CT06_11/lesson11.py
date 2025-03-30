@@ -29,4 +29,5 @@ else:
 meal=str(input("Do you want to eat a burger?"))
 if meal=="yes":
     str(input("Do you want fries?"))
+    if "yes":
 
