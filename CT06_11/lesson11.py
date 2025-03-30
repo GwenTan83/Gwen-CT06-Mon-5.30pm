@@ -29,3 +29,5 @@ else:
 burger=input("Do you want a burger?")
 fries=input("Do you want fries?")
 drink=input("Do you want a drink?")
+
+burger
