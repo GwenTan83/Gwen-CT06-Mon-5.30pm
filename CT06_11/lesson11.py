@@ -26,5 +26,5 @@ else:
 # There is an order of precedance for Logical AND, OR, NOT.
 #     not----> and ----> or
 
-Burger=
+burger=input
 
