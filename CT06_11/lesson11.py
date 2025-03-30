@@ -11,4 +11,4 @@
 # else:
 #     print("Ticket price: $20")
 
-colour=int(input)
+colour=int(input("What colour do you want to check?"))
