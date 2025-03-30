@@ -13,4 +13,6 @@
 
 colour=int(input("What colour do you want to check?"))
 if not colour == green:
-    print("")
+    print("Try again.")
+else:
+    print
