@@ -26,5 +26,5 @@ else:
 # There is an order of precedance for Logical AND, OR, NOT.
 #     not----> and ----> or
 
-burger=input("do you want a burger?")
-fries=input
+burger=input("Do you want a burger?")
+fries=input()
