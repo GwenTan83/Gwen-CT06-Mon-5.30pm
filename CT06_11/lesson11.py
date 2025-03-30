@@ -12,7 +12,7 @@
 #     print("Ticket price: $20")
 
 colour=int(input("What colour do you want to check?"))
-if not colour == green:
+if not colour == "green":
     print("Try again.")
 else:
     print
