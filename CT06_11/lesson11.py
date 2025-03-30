@@ -17,4 +17,4 @@
 # else:
 #     print("Correct!")
 
-day=str(input(""))
+day=str(input("What day of the week is it?"))
