@@ -42,4 +42,5 @@ password = "pw123"
 input("Enter your username.")
 input("Enter your password.")
 if username and password is true:
-    print("Access ")
+    print("Access Granted.")
+    
