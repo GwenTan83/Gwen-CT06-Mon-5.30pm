@@ -6,3 +6,5 @@ else:
     print("The number is not divisible by 3 and 7!")
 
 age=int(input("What is your age?"))
+if age<12 or age>65:
+    print()
