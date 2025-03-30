@@ -36,3 +36,5 @@ drink = drink == "yes"
 
 if burger and fries and not drink:
     print("Won't you get thristy?")
+
+username=
