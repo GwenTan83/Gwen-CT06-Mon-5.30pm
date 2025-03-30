@@ -41,6 +41,7 @@ username = "John123"
 password = "pw123"
 input("Enter your username.")
 input("Enter your password.")
-if username and password is true:
+if username== "John123" and password== "pw123":
     print("Access Granted.")
-    
+elif username or password is False:
+    print
