@@ -17,11 +17,11 @@
 # else:
 #     print("Correct!")
 
-day=str(input("What day of the week is it?"))
-if not day=="Saturday":
-    print("It's not the weekend yet!")
-else:
-    print("It's finally the weekend!")
+# day=str(input("What day of the week is it?"))
+# if not day=="Saturday":
+#     print("It's not the weekend yet!")
+# else:
+#     print("It's finally the weekend!")
 
 # There is an order of precedance for Logical AND, OR, NOT.
 #     not----> and ----> or
