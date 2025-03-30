@@ -32,4 +32,7 @@ drink=input("Do you want a drink?")
 
 burger = burger == "yes"
 fries = fries == "yes"
-drink = drink == 
+drink = drink == "yes"
+
+if burger and fries and not drink:
+    print("W")
