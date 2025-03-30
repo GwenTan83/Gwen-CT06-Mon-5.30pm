@@ -35,4 +35,4 @@ fries = fries == "yes"
 drink = drink == "yes"
 
 if burger and fries and not drink:
-    print("W")
+    print("Won't you get thristy?")
