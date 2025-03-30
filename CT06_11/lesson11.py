@@ -40,6 +40,6 @@ if burger and fries and not drink:
 username = "John123"
 password = "pw123"
 input("Enter your username.")
-input
+input("Enter your password.")
 if username and password is true:
     print("A")
