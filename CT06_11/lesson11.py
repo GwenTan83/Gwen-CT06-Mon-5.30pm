@@ -32,3 +32,4 @@ drink=input("Do you want a drink?")
 
 burger = burger == "yes"
 fries = fries == "yes"
+drink = drink == 
