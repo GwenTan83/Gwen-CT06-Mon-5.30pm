@@ -45,3 +45,5 @@ if username== "John123" and password== "pw123":
     print("Access Granted.")
 elif username or password is False:
     print("Either username or password is incorrect.")
+else:
+    print("Access denied.")
