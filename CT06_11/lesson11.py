@@ -18,3 +18,13 @@
 #     print("Correct!")
 
 day=str(input("What day of the week is it?"))
+if not day=="Saturday":
+    print
+
+# There is an order of precedance for Logical AND, OR, NOT.
+#     not----> and ----> or
+
+meal=str(input("Do you want to eat a burger?"))
+if meal=="yes":
+    str(input("Do you want fries?"))
+
