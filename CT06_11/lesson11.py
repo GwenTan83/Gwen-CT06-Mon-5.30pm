@@ -26,16 +26,16 @@
 # There is an order of precedance for Logical AND, OR, NOT.
 #     not----> and ----> or
 
-burger=input("Do you want a burger?")
-fries=input("Do you want fries?")
-drink=input("Do you want a drink?")
+# burger=input("Do you want a burger?")
+# fries=input("Do you want fries?")
+# drink=input("Do you want a drink?")
 
-burger = burger == "yes"
-fries = fries == "yes"
-drink = drink == "yes"
+# burger = burger == "yes"
+# fries = fries == "yes"
+# drink = drink == "yes"
 
-if burger and fries and not drink:
-    print("Won't you get thristy?")
+# if burger and fries and not drink:
+#     print("Won't you get thristy?")
 
 username = "John123"
 password = "pw123"
