@@ -26,9 +26,5 @@ else:
 # There is an order of precedance for Logical AND, OR, NOT.
 #     not----> and ----> or
 
-meal=str(input("Do you want to eat a burger?"))
-if meal=="yes":
-    str(input("Do you want fries?"))
-    if "yes":
-        str
+Burger=
 
