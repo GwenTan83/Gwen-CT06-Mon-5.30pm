@@ -27,4 +27,5 @@ else:
 #     not----> and ----> or
 
 burger=input("Do you want a burger?")
-fries=input()
+fries=input("Do you want fries?")
+drink=input()
