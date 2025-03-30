@@ -39,6 +39,6 @@ if burger and fries and not drink:
 
 username = "John123"
 password = "pw123"
-input("Enter your username and password.")
+input("Enter your username
 if username and password is true:
-    print()
+    print("A")
