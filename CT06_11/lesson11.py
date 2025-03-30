@@ -19,7 +19,7 @@
 
 day=str(input("What day of the week is it?"))
 if not day=="Saturday":
-    print("It's not weekend yet!")
+    print("It's not the weekend yet!")
 
 # There is an order of precedance for Logical AND, OR, NOT.
 #     not----> and ----> or
