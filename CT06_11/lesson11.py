@@ -1,2 +1,2 @@
 # print("Hello from lesson 11")
-input(int(""))
+input(int("What number do you want to check?"))
