@@ -5,4 +5,4 @@ if number % 3 ==0 and number % 7 ==0:
 else:
     print("The number is not divisible by 3 and 7!")
 
-age=int()
+age=int(input("What is your age"))
