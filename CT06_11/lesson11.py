@@ -17,3 +17,4 @@
 # else:
 #     print("Correct!")
 
+day=str(input)
