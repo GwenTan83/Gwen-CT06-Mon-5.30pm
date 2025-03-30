@@ -11,8 +11,9 @@
 # else:
 #     print("Ticket price: $20")
 
-colour=str(input("What colour do you want to check?"))
-if not colour == "green":
-    print("Try again.")
-else:
-    print("Correct!")
+# colour=str(input("What colour do you want to check?"))
+# if not colour == "green":
+#     print("Try again.")
+# else:
+#     print("Correct!")
+
