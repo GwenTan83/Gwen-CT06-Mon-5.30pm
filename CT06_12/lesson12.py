@@ -34,4 +34,4 @@
 "visitors"==0
 while "visitors"<=50:
     "visitors" + 1
-print ("The numbers of visitors is ")
+print ("The numbers of visitors is" )
