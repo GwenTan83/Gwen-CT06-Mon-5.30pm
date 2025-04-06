@@ -54,7 +54,7 @@ while visitors<30:
 # **Task 1c**:
 # Visitors already present: 4
 # Max visitors allowed: 25
-visitors=13
-while visitors<30:
+visitors=4
+while visitors<25:
     visitors=visitors+1
     print("The number of visitors is "+str(visitors))
