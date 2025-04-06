@@ -94,6 +94,6 @@
 
 order=""
 while True:
-    order=order+1
+    order=order+int(input(""))
 
     
