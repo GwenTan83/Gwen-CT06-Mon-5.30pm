@@ -71,6 +71,7 @@
 capacity=0
 while True:
     capacity=capacity+1
+    print(capacity)
     if capacity==30:
         break
     
