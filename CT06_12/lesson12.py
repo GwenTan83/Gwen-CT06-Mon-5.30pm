@@ -124,6 +124,7 @@
 
 num=11
 while True:
-    num=num
+    num=num-1
+    
 
     
