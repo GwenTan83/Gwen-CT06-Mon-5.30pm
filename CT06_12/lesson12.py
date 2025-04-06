@@ -94,7 +94,11 @@
 
 order=""
 while True:
-    order=order+str(input("What do you want to eat?"))
+    user=(input("What would you like to order?"))
+    if user=="end":
+        break
+    order=order+","+user
+    print(order)
 
 
     
