@@ -123,7 +123,7 @@
 # Observe that "Happy New Year!" is no longer printed
 
 num=10
-while True:
+while num:
     num=num-1
     print(num)
 else:
