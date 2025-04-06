@@ -95,5 +95,5 @@
 order=0
 while True:
     int(input("What do you want to eat?"))
-    
+    order=""
     
