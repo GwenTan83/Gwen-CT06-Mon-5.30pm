@@ -125,6 +125,8 @@
 num=11
 while True:
     num=num-1
-    
+else:
+    print("Happy New Year!")
+
 
     
