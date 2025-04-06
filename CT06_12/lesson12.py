@@ -69,6 +69,7 @@
 # number of visitors is 30.
 
 capacity=0
-while capacity<30:
-    capacity=capacity+1
+while True:
+    if capacity==capacity+1:
+    break
     
