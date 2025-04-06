@@ -94,6 +94,6 @@
 
 order=""
 while True:
-    order=order+int(input(""))
+    order=order+int(input("What do you want to eat?"))
 
     
