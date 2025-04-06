@@ -124,6 +124,6 @@
 
 num=11
 while True:
-    print
+    num=num
 
     
