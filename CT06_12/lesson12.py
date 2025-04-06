@@ -68,12 +68,12 @@
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
 
-capacity=0
-while True:
-    capacity=capacity+1
-    print(capacity)
-    if capacity==30:
-        break
+# capacity=0
+# while True:
+#     capacity=capacity+1
+#     print(capacity)
+#     if capacity==30:
+#         break
 
 # Task 3: Order taking using while loop
 # Using what you have learnt so far, code a program to take a
