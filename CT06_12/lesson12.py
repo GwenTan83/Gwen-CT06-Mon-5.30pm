@@ -122,12 +122,12 @@
 
 # Observe that "Happy New Year!" is no longer printed
 
-num=11
-while num>1:
-    num=num-1
-    print(num)
-else:
-    print("Happy New Year!")
+# num=11
+# while num>1:
+#     num=num-1
+#     print(num)
+# else:
+#     print("Happy New Year!")
 
 
     
