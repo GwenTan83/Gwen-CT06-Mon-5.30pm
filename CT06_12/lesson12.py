@@ -92,6 +92,6 @@
 # 1. Modify your code to remove the comma (",") that appears
 #    either at the start or end of your sentence
 
-order=int
+order=int(input(""))
 
     
