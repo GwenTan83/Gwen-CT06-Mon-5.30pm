@@ -92,14 +92,14 @@
 # 1. Modify your code to remove the comma (",") that appears
 #    either at the start or end of your sentence
 
-order=""
-while True:
-    user=(input("What would you like to order?"))
-    if user=="end":
-        break
-    order=order+user+","
-    print(order)
-print(order)
+# order=""
+# while True:
+#     user=(input("What would you like to order?"))
+#     if user=="end":
+#         break
+#     order=order+user+","
+#     print(order)
+# print(order)
     
 
 
