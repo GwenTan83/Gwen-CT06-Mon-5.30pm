@@ -94,5 +94,5 @@
 
 order=0
 while True:
-    int
+    int(input())
     
