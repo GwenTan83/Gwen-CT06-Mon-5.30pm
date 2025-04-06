@@ -31,7 +31,7 @@
 #     I. Increase the visitor count by 1
 #     II. Print the visitor count
 
-visitors==0
+visitors=0
 while "visitors">=50:
     "visitors" + 1
     print ("The numbers of visitors is" )
