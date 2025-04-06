@@ -30,5 +30,4 @@
 # 2. While there is less than 50 visitors,
 #     I. Increase the visitor count by 1
 #     II. Print the visitor count
-
-visitors==0
+isitors==0
