@@ -49,7 +49,7 @@
 # Visitors already present: 4
 # Max visitors allowed: 25
 
-visitors=0
-while visitors<=50:
+visitors=13
+while visitors<=30:
     visitors=visitors+1
     print("The number of visitors is "+str(visitors))
