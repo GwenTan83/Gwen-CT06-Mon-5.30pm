@@ -70,4 +70,4 @@
 
 capacity=0
 while capacity<30:
-    capacity
+    capacity=capacity+1
