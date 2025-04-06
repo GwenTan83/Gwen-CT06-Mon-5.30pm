@@ -70,7 +70,7 @@
 
 capacity=0
 while True:
-    
+    capacity==0
     if capacity==30:
         break
     
