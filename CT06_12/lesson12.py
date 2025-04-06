@@ -68,3 +68,4 @@
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
 
+capacity
