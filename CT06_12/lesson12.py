@@ -31,6 +31,11 @@
 #     I. Increase the visitor count by 1
 #     II. Print the visitor count
 
+visitors=0
+while visitors<=50:
+    visitors=visitors+1
+    print("The number of visitors is "+str(visitors))
+
 # (For Task 1b & 1c)
 # Modify your program to account for the number of visitors
 # already present at the venue, and the number of maximum visitors
