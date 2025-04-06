@@ -68,8 +68,9 @@
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
 
-capacity=0+1
+capacity=0
 while True:
+    
     if capacity==30:
         break
     
