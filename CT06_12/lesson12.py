@@ -98,7 +98,8 @@ while True:
     if user=="end":
         break
     order=order+user+","
-    print(order)\
+    print(order)
+print(order)
     
 
 
