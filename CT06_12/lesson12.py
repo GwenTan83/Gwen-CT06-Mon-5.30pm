@@ -53,3 +53,8 @@ visitors=13
 while visitors<30:
     visitors=visitors+1
     print("The number of visitors is "+str(visitors))
+
+visitors=13
+while visitors<30:
+    visitors=visitors+1
+    print("The number of visitors is "+str(visitors))
