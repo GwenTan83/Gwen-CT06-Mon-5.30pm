@@ -46,18 +46,18 @@
 # Max visitors allowed: 30
 
 
-visitors=13
-while visitors<30:
-    visitors=visitors+1
-    print("The number of visitors is "+str(visitors))
+# visitors=13
+# while visitors<30:
+#     visitors=visitors+1
+#     print("The number of visitors is "+str(visitors))
 
 # **Task 1c**:
 # Visitors already present: 4
 # Max visitors allowed: 25
-visitors=4
-while visitors<25:
-    visitors=visitors+1
-    print("The number of visitors is "+str(visitors))
+# visitors=4
+# while visitors<25:
+#     visitors=visitors+1
+#     print("The number of visitors is "+str(visitors))
 
 # Task 2: while... break
 # A restaurant used to have a max capacity of 50. However, due to
