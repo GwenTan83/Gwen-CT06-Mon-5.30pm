@@ -14,5 +14,5 @@ num=int(input("What number do you want to check?"))
 if num%3==0 and num%5==0:
     print("The number is divisible by 3 and 5!")
 else:
-    print("The number i")
+    print("The number is not div")
     
