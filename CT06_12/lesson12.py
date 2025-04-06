@@ -33,5 +33,5 @@
 
 visitors=0
 while visitors<=50:
-    visitors + 1
+    visitors=0 + 1
     print ("The numbers of visitors is" )
