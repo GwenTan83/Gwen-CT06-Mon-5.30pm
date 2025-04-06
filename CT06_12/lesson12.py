@@ -122,6 +122,7 @@
 
 # Observe that "Happy New Year!" is no longer printed
 
-
+while True:
+    print
 
     
