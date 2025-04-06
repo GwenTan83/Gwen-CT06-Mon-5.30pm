@@ -122,7 +122,7 @@
 
 # Observe that "Happy New Year!" is no longer printed
 
-num=
+num=11
 while True:
     print
 
