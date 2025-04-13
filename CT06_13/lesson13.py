@@ -25,5 +25,5 @@ for grocery in groceries:
     if grocery=="Apples":
         print("Apples, I need 5 of these")
     elif grocery=="Carrots":
-        print
+        print("Carrots")
     
