@@ -21,4 +21,6 @@ print(groceries)
 #    these"
 # 4. If name == "Grapes", print "<grocery name>: Get the FarmFresh
 #    brand"
-for groceries in list:
+for grocery in groceries:
+    if grocery=="Apples":
+        print("Apples, I need 5 of these")
