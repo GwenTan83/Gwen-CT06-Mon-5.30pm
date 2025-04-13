@@ -6,5 +6,6 @@ groceries=[
 "Dates",
 "Eggs",
 "Flour",
-"Grapes"
+"Grapes",
 "Honey"]
+print(groceries)
