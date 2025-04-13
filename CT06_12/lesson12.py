@@ -193,5 +193,4 @@ num=0
 import random
 while num!=4:
     num=random.randint(1,6)
-    counter+=1
     print(num)
