@@ -8,4 +8,3 @@ groceries=[
 "Flour",
 "Grapes",
 "Honey"]
-print(groceries)
