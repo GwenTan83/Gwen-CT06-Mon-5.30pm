@@ -156,17 +156,17 @@
 #     End the 'while' loop
     
 
-import random
-num1=random.randint(1,10)
-num2=random.randint(1,10)
-answer=num1+num2
-while True:
-    user=int(input("What is "+ str(num1) + " + "+str(num2) + "?"))
-    if user==answer:
-        print("That's correct!")
-        break
-    else:
-        print("Wrong! Try again.")
+# import random
+# num1=random.randint(1,10)
+# num2=random.randint(1,10)
+# answer=num1+num2
+# while True:
+#     user=int(input("What is "+ str(num1) + " + "+str(num2) + "?"))
+#     if user==answer:
+#         print("That's correct!")
+#         break
+#     else:
+#         print("Wrong! Try again.")
 
 # Task 6: Dice Roll till 4
 # Using 'while' loop and the 'random.randint()' function from the
@@ -192,5 +192,5 @@ while True:
 import random
 num=0
 while num!=4:
-    num=random.ranndint(1,6)
+    num=random.randint(1,6)
     print(int("num"))
