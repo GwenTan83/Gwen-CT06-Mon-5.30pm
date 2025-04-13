@@ -129,12 +129,12 @@
 # else:
 #     print("Happy New Year!")
 
-num=11
-while num>5:
-    num=num-1
-    print(num)
-    break
-else:
-    print("Happy New Year!")
+# num=11
+# while num>5:
+#     num=num-1
+#     print(num)
+#     break
+# else:
+#     print("Happy New Year!")
 
     
