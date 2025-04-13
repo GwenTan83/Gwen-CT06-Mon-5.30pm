@@ -166,7 +166,7 @@ while True:
         print("That's correct!")
         break
     else:
-        print("Wrong")
+        print("Wrong! Try again.")
 
 # Task 6: Dice Roll till 4
 # Using 'while' loop and the 'random.randint()' function from the
