@@ -24,7 +24,6 @@ print(groceries)
 for grocery in groceries:
     if grocery=="Apples":
         print("Apples, I need 5 of these.")
-        break
     elif grocery=="Carrots":
         print("Carrots, I need 3 of these.")
         break
