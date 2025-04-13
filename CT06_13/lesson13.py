@@ -1,2 +1,10 @@
 print("Hello from lesson 13")
-groceries=[]
+groceries=[
+"Apples",
+"Bread",
+"Carrots",
+"Dates",
+"Eggs",
+"Flour",
+"Grapes"
+"Honey"]
