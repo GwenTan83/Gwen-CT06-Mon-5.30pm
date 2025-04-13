@@ -10,5 +10,5 @@ groceries=[
 "Honey"]
 groceries[7]="Herbs"
 print (groceries)
-lists.append("ice")
+groceries.append("ice")
 lists.insert("Bananas")
