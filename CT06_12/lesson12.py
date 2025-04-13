@@ -193,4 +193,5 @@ import random
 num=0
 while num!=4:
     num=random.randint(1,6)
-    print("")
+if num==4:
+    print(int())
