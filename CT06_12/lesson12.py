@@ -165,4 +165,5 @@ while True:
     if user==answer:
         print("That's correct!")
         break
-    
+    else:
+        print("That's ")
