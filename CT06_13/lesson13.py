@@ -8,4 +8,4 @@ groceries=[
 "Flour",
 "Grapes",
 "Honey"]
-groceries[7]=Herbs
+groceries[6]=Herbs
