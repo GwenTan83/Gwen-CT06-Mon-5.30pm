@@ -161,7 +161,7 @@ num1=random.randint(1,10)
 num2=random.randint(1,10)
 answer=num1+num2
 while True:
-    user=int(input("What is"+ str(num1) + "+ "+str(num2)+"?"))
+    user=int(input("What is "+ str(num1) + "+ "+str(num2) + "?"))
     if user==answer:
         print("That's correct!")
         break
