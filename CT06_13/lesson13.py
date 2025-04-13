@@ -8,5 +8,5 @@ groceries=[
 "Flour",
 "Grapes",
 "Honey"]
-groceries[6]="Herbs"
+groceries[7]="Herbs"
 print (groceries)
