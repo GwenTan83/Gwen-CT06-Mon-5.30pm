@@ -189,7 +189,6 @@
 # 3. Break out of the 'while' loop if counter variable reaches 10
 #    and print "You have won the jackpot!"
 
-import random
 num=0
 while num!=4:
     num=random.randint(1,6)
