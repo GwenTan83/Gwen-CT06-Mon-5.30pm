@@ -166,4 +166,4 @@ while True:
         print("That's correct!")
         break
     else:
-        print("That's ")
+        print("That's incorrect.")
