@@ -27,5 +27,4 @@ for grocery in groceries:
     elif grocery=="Carrots":
         print("Carrots, I need 3 of these.")
     else:
-        grocery=="Grapes":
-        print("Grapes, get the FarmFresh brand.")
+print("Grapes, get the FarmFresh brand.")
