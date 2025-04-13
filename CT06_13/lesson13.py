@@ -11,5 +11,5 @@ groceries=[
 groceries[7]="Herbs"
 print (groceries)
 groceries.append(8,"Ice")
-groceries.insert("Bananas")
+groceries.insert(1,"Bananas")
 print(groceries)
