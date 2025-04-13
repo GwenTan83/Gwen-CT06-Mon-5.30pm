@@ -137,4 +137,23 @@
 # else:
 #     print("Happy New Year!")
 
- while 1   
+# Task 5: Math Question
+# **Task 5a**:
+# Create a program to test the user on their math skills! The
+# program will continue generating new questions until the user
+# get the wrong answer.
+
+# 1. Using a 'while' loop, 
+# 2. Generate 2 random numbers between 1 and 10 (import 'random'
+#    and use 'random.randint()')
+# 3. Ask the user to add the 2 numbers together in the following
+#    format:
+#     "What is 3 + 5?"
+# 4. If the user gets the correct answer:
+#     Print "That's correct!
+# 5. Else:
+#     print "Wrong! Try again"
+#     End the 'while' loop
+    
+
+    
