@@ -190,6 +190,7 @@
 #    and print "You have won the jackpot!"
 
 num=0
+import random
 while num!=4:
     num=random.randint(1,6)
     print(num)
