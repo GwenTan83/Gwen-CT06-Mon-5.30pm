@@ -157,7 +157,8 @@
     
 
 import random
-num=input(int("Input 2 numbers."))
-while num>1 and num<10:
-    input(int("What is the total of the 2 numbers?"))
-
+num1=random.randint(1,10)
+num2=random.randint(1,10)
+answer=num1+num2
+while True:
+    user=int(input)
