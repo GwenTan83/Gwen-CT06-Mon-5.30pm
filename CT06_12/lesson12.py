@@ -192,4 +192,4 @@
 num=0
 while num!=4:
     num=random.randint(1,6)
-    print()
+    print(num)
