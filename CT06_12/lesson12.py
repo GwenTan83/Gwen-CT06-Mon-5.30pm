@@ -157,6 +157,7 @@
     
 
 import random
+num
 while num>1 and num<10:
     input(int("What is the total of the 2 numbers?"))
 
