@@ -9,3 +9,4 @@ groceries=[
 "Grapes",
 "Honey"]
 groceries[6]="Herbs"
+print (groceries)
