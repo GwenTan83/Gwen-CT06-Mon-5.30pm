@@ -161,9 +161,30 @@ num1=random.randint(1,10)
 num2=random.randint(1,10)
 answer=num1+num2
 while True:
-    user=int(input("What is "+ str(num1) + "+ "+str(num2) + "?"))
+    user=int(input("What is "+ str(num1) + " + "+str(num2) + "?"))
     if user==answer:
         print("That's correct!")
         break
     else:
         print("That's incorrect.")
+
+# Task 6: Dice Roll till 4
+# Using 'while' loop and the 'random.randint()' function from the
+# 'random' library, constantly print a random number between 1 and
+# 6 until the random number generated is 4.
+
+# 1. Import the 'random' library
+# 2. Create 'num' variable and assign it '0'
+# 3. While 'num' variable is not '4',
+#     a. Using 'random.randint()', assign 'num' variable a random
+#        number between 1 and 6.
+#     b. Print the random number generated.
+
+# **Bonus**
+# Some ideas to improve on the above program:
+# 1. Add a counter variable and announce the number of tries it
+#    took before rolling a '4'.
+# 2. Add the ability for the user to determine which number to roll
+#    until (instead of '4' all the time).
+# 3. Break out of the 'while' loop if counter variable reaches 10
+#    and print "You have won the jackpot!"
