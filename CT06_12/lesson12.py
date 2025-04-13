@@ -191,3 +191,5 @@ while True:
 
 import random
 num=0
+while num!=4:
+    num=random.rand
