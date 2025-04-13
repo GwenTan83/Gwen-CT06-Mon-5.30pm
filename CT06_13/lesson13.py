@@ -11,3 +11,4 @@ groceries=[
 groceries[7]="Herbs"
 print (groceries)
 lists.append(ice)
+lists.insert()
