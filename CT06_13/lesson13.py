@@ -1,11 +1,11 @@
 # print("Hello from lesson 13")
-# groceries=[
-# "Apples",
-# "Bread",
-# "Carrots",
-# "Dates",
-# "Eggs",
-# "Flour",
-# "Grapes",
-# "Honey"]
+groceries=[
+"Apples",
+"Bread",
+"Carrots",
+"Dates",
+"Eggs",
+"Flour",
+"Grapes",
+"Honey"]
 groceries[7]=herbs
