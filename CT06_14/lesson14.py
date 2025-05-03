@@ -137,3 +137,5 @@
 # Next, print in multiples of 2
 
 i=2
+while i <=10:
+    print(i)
