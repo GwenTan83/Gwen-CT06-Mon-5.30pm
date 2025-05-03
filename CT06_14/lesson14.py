@@ -102,4 +102,6 @@ print(len(students))
 del(students[3])
 
 print(students)
+
+students.pop()
 # Add items - 2 ways
