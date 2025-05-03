@@ -74,14 +74,14 @@ t.fillcolor("green")
 t.seth(0)
 t.pendown()
 
-for i in range(3):
+for i in range(4):
     t.forward(100)
-    t.left(120)
+    t.left
 
 window.mainloop()
 
 # **Task 3b**: Draw a triangle
-# Number of sides: z
+# Number of sides: 3
 # Interior angle: 120
 
 # **Task 3c**: Draw a square
