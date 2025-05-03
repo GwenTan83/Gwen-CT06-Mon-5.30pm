@@ -66,10 +66,10 @@
 # window.mainloop()
 
 import turtle
-
 window = turtle.Screen()
-
+window
 window.mainloop()
+
 # TEST REVISION
 
 # PART 1
