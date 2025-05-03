@@ -116,4 +116,5 @@ students.append("zirui")
 students.insert(1,"kaius")
 print(students)
 
-#
+# Print out all the items in the list using a for loop
+
