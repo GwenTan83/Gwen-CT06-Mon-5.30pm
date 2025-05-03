@@ -128,5 +128,5 @@ for item in students:
 
 #using range
 
-for i in range(3):
-    print (i)
+for i in range(len(students)):
+    print(i)
