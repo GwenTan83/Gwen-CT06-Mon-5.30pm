@@ -141,3 +141,10 @@
 #     print(i)
 #     i += 2
 
+# PART 3
+
+# What is str?
+str="hi!"
+str="hi-"
+str=str * 3
+print(str)
