@@ -144,6 +144,10 @@
         # f. Write the coordinate of the square using '.write()'
 
 import turtle
+import random
+
+for i in range(10):
+    
    
 
 # ---------------------------------------------------------------------------------------------------
