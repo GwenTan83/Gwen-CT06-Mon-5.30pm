@@ -174,5 +174,14 @@
 #     print("Num is 2 or smaller")
 
 # What happens when I run this code?
-num_students=20
-print("There are " + str(num_students) + " in this class.")
+# num_students=20
+# print("There are " + str(num_students) + " in this class.")
+
+# How do you compare values?
+# Is equal to... ==
+# Is not equal to... !=
+# More than... >
+# Less than... <
+# More than or equal to... >=
+# Less than or equal to... <=
+
