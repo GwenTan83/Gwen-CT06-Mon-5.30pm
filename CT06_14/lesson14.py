@@ -185,6 +185,6 @@
 # More than or equal to... >=
 # Less than or equal to... <=
 
-# How do you write Boolean values? Capital letters
+# How do you write Boolean values? (Capital letters)
 # True
 # False
