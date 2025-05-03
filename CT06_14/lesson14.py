@@ -144,7 +144,7 @@
 # PART 3
 
 # What is str?
-str="hi!"
-str="hi-"
-str=str * 3
-print(str)
+# str="hi!"
+# str="hi-"
+# str=str * 3
+# print(str)
