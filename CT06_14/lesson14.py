@@ -90,6 +90,25 @@
 
 # window.mainloop()
 
+# Task 4: Creating a Crosshair (.goto(), .setx() and .sety())
+# Write a program that moves the turtle to draw a horizontal line
+# across the middle of the screen and then a vertical line down the
+# centre of the screen, creating a crosshair pattern.
+
+# 1. Import the 'turtle' library
+# 2. Using 'turtle.Screen()', create a turtle screen and set the window
+#    size to 600x400 using the following line of code:
+#         Hint: ???.setup(width=???, height=???)
+# 3. Create a turtle, and use '.penup()'
+# 4. Use '.goto()' to position your turtle at x = -300 and y = 0
+# 5. Use '.pendown()' and use '.setx()' to set your turtle's x position
+#    to x = 300
+# 6. '.penup()' and using '.goto()', reposition your turtle to
+#    x = 0 and y = 200
+# 7. Use '.pendown()' and '.sety()' to set your turtle's y position
+#    to y = -200
+# 8. End off with a '.mainloop()' function to keep the window open
+
 # ---------------------------------------------------------------------------------------------------
 # TEST REVISION
 
