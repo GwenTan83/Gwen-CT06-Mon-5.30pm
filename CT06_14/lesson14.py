@@ -106,8 +106,10 @@ print(len(students))
 # students.pop(2)
 # print(students)
 
-deleted_student = students.pop(2)
-print(students)
-print(deleted_student + " was removed!")
+# deleted_student = students.pop(2)
+# print(students)
+# print(deleted_student + " was removed!")
 
 # Add items - 2 ways
+
+students.appened()
