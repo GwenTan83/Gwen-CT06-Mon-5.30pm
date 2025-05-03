@@ -124,7 +124,7 @@ counter = 1
 
 for item in students:
     print(str(counter))+". "+ item
-    counter+=1
+    counter += 1
 
 #using range
 
