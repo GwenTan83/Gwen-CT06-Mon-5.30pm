@@ -129,4 +129,4 @@ for item in students:
 #using range
 
 for i in range(len(students)):
-    print(i)
+    print(i + 1) 
