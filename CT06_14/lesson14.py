@@ -110,4 +110,5 @@ print(students)
 students.pop(2)
 
 print(students)
+print(deleted_student)
 # Add items - 2 ways
