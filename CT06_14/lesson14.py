@@ -120,6 +120,7 @@ print(students)
 
 # access the values in the list
 
+counter = 1
 
 for item in students:
     print(item)
