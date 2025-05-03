@@ -148,3 +148,11 @@
 # str="hi-"
 # str=str * 3
 # print(str)
+
+# What's going to be printed here?
+a=10
+b=5
+if a>b:
+    print("BIGGER!")
+else:
+print("SMALLER!")
