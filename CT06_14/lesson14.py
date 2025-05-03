@@ -73,22 +73,22 @@
 # **Task 3c**: Draw a square
 # Number of sides: 4
 # Interior angle: 90
-import turtle
-window = turtle.Screen()
-window.setup(width=600, height=400)
-t = turtle.Turtle()
-t.shape("turtle")
-t.fillcolor("green")
-t.seth(0)
-t.pendown()
+# import turtle
+# window = turtle.Screen()
+# window.setup(width=600, height=400)
+# t = turtle.Turtle()
+# t.shape("turtle")
+# t.fillcolor("green")
+# t.seth(0)
+# t.pendown()
 
-for counter in range(5):
-    for i in range(4):
-        t.forward(100)
-        t.left(90)
-    t.left(72)
+# for counter in range(5):
+#     for i in range(4):
+#         t.forward(100)
+#         t.left(90)
+#     t.left(72)
 
-window.mainloop()
+# window.mainloop()
 
 # ---------------------------------------------------------------------------------------------------
 # TEST REVISION
