@@ -156,3 +156,5 @@ if a>b:
     print("BIGGER!")
 else:
     print("SMALLER!")
+
+# If no tab: indentation error
