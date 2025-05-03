@@ -126,3 +126,7 @@ for item in students:
     print(str(counter))+". "+ item
     counter+=1
 
+#using range
+
+for i in range(3):
+    print (i)
