@@ -173,3 +173,6 @@
 # else:
 #     print("Num is 2 or smaller")
 
+# What happens when I run this code?
+num_students=20
+print("There are " + str(num_students) + " in this class.")
