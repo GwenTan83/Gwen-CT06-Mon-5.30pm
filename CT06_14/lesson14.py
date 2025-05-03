@@ -161,5 +161,5 @@
 
 # What are the possible outputs? Will my code run without errors?
 
-import random
-print(random.randint(1,2))
+# import random
+# print(random.randint(1,2))
