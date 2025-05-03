@@ -67,7 +67,7 @@
 
 import turtle
 window = turtle.Screen()
-window
+window.setup(width)
 window.mainloop()
 
 # TEST REVISION
