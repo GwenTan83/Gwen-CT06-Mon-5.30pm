@@ -100,4 +100,6 @@ print(len(students))
 # Delete items - 2 ways
 
 del(students[3])
+
+print(students)
 # Add items - 2 ways
