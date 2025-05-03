@@ -123,7 +123,7 @@ print(deleted_student + " was removed!")
 counter = 1
 
 for item in students:
-    print(str(counter))+". "+ item
+    print(str(counter)+". "+ item)
     counter += 1
 
 #using range
