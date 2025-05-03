@@ -150,11 +150,16 @@
 # print(str)
 
 # What's going to be printed here?
-a=10
-b=5
-if a>b:
-    print("BIGGER!")
-else:
-    print("SMALLER!")
+# a=10
+# b=5
+# if a>b:
+#     print("BIGGER!")
+# else:
+#     print("SMALLER!")
 
 # If no tab: indentation error
+
+# What are the possible outputs? Will my code run without errors?
+
+import random
+print(random.randint(1,2))
