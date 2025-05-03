@@ -104,7 +104,6 @@ print(len(students))
 # print(students)
 
 students.pop(2)
-
 print(students)
 
 deleted_student = students.pop(2)
