@@ -194,3 +194,6 @@
 # Can you use break to exit for loop? YES
 # Cannot use for if else as if else is not a loop.
 # In a loop where we retrieve each student's score, when should we sum up the scores to get the average score? Inside the loop? Outside the loop.
+
+# How do we print "Hi there!" into the terminal shell output?
+# print("Hi there!")
