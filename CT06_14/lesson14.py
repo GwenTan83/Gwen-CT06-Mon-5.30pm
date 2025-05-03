@@ -79,13 +79,13 @@ for i in range(3):
 
 window.mainloop()
 
-**Task 3b**: Draw a triangle
-Number of sides: 3
-Interior angle: 120
+# **Task 3b**: Draw a triangle
+# Number of sides: 3
+# Interior angle: 120
 
-**Task 3c**: Draw a square
-Number of sides: 4
-Interior angle: 90
+# **Task 3c**: Draw a square
+# Number of sides: 4
+# Interior angle: 90
 
 # TEST REVISION
 
