@@ -103,7 +103,7 @@ print(len(students))
 
 # print(students)
 
-students.pop()
+students.pop(2)
 
 print(students)
 # Add items - 2 ways
