@@ -70,7 +70,27 @@ t.fillcolor("orange")
 
 
 
-window.mainloop()
+# window.mainloop()
 
 
+# TEST REVISION
 
+# PART 1
+
+# Create a list
+students=[
+    "yuli",
+    "kaius",
+    "zirui",
+    "lucien"
+]
+print(students)
+
+# Access list items and change value ; what is the first item?
+
+print(students[1])
+
+
+# Size of list
+# Delete items - 2 ways
+# Add items - 2 ways
