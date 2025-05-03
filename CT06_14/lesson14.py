@@ -73,7 +73,7 @@ t.shape("turtle")
 t.fillcolor("green")
 t.seth(0)
 t.pendown()
-t.foward(100)
+t.forward(100)
 window.mainloop()
 
 # TEST REVISION
