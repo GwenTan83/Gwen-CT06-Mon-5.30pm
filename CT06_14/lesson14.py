@@ -123,4 +123,5 @@ print(students)
 counter = 1
 
 for item in students:
-    print(item)
+    print(str(counter))+". "+ item
+    counter+=1
