@@ -111,7 +111,7 @@
 
 import turtle
 window=turtle.Screen()
-window.setup
+window.setup(width=600,  height)
 # ---------------------------------------------------------------------------------------------------
 # TEST REVISION
 
