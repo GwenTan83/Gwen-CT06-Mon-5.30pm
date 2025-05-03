@@ -67,7 +67,7 @@
 
 import turtle
 
-window = t
+window = turtle.Screen()
 
 # TEST REVISION
 
