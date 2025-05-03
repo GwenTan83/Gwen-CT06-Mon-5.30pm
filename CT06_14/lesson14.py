@@ -135,3 +135,5 @@
 
 # Print numbers from 1 - 10 using a while loop 
 # Next, print in multiples of 2
+
+i=2
