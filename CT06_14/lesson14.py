@@ -128,5 +128,5 @@ for item in students:
 
 #using range
 
-for i in range(len(students)):
-    print(str(i + 1) + ". " + students[i])
+# for i in range(len(students)):
+#     print(str(i + 1) + ". " + students[i])
