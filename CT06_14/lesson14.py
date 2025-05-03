@@ -119,4 +119,6 @@ print(students)
 # Print out all the items in the list using a for loop
 
 # access the values in the list
-counter=1
+
+for item in students:
+    print(item)
