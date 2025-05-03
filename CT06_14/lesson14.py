@@ -76,6 +76,7 @@ t.pendown()
 
 for i in range(3):
     t.forward(100)
+    
 
 window.mainloop()
 
