@@ -188,3 +188,5 @@
 # How do you write Boolean values? (Capital letters)
 # True
 # False
+
+# What is break statement for?
