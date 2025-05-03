@@ -113,5 +113,5 @@ print(deleted_student + " was removed!")
 # Add items - 2 ways
 
 students.appened("zirui")
-students.insert(1,"")
+students.insert(1,"kaius")
 print(students)
