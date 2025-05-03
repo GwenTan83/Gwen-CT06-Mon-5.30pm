@@ -90,7 +90,8 @@ print(students)
 
 print(students[1])
 
-students[1]
+students[1]="Gwen"
+
 
 # Size of list
 # Delete items - 2 ways
