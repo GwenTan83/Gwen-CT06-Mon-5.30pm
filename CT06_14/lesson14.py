@@ -88,15 +88,15 @@ print(students)
 
 # Access list items and change value ; what is the first item?
 
-print(students[1])
+# print(students[1])
 
-students[1]="Gwen"
+# students[1]="Gwen"
 
-print(students)
+# print(students)
 
 # Size of list
 
-print(len(students))
+# print(len(students))
 # Delete items - 2 ways
 
 # del(students[3])
