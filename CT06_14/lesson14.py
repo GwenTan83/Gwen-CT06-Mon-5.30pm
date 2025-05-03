@@ -95,5 +95,7 @@ students[1]="Gwen"
 print(students)
 
 # Size of list
+
+print
 # Delete items - 2 ways
 # Add items - 2 ways
