@@ -194,4 +194,4 @@
 # What index do we start with in a list? 0
 
 # How to check if a number, i, is even?
-# if 1 % 2 ==0:
+# if 1 % 2 == 0:
