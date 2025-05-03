@@ -143,6 +143,7 @@
         #    randomly generated x and y coordinate
         # f. Write the coordinate of the square using '.write()'
 
+import turtle
    
 
 # ---------------------------------------------------------------------------------------------------
