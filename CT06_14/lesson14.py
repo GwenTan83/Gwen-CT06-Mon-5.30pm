@@ -99,9 +99,9 @@ print(students)
 print(len(students))
 # Delete items - 2 ways
 
-del(students[3])
+# del(students[3])
 
-print(students)
+# print(students)
 
-students.pop()
+students.pop();
 # Add items - 2 ways
