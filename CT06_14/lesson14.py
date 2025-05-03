@@ -84,7 +84,7 @@ t.pendown()
 
 for i in range(3):
     t.forward(1)
-    t.left(90)
+    t.left(360/3)
 
 window.mainloop()
 
