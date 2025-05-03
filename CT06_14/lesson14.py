@@ -197,3 +197,5 @@
 
 # How do we print "Hi there!" into the terminal shell output?
 # print("Hi there!")
+
+# What index do we start with in a list? 0
