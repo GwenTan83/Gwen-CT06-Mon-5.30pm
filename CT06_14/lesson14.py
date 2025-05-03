@@ -92,6 +92,7 @@ print(students[1])
 
 students[1]="Gwen"
 
+print(students)
 
 # Size of list
 # Delete items - 2 ways
