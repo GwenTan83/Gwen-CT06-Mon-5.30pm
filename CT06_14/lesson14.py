@@ -121,6 +121,30 @@
 # t.pendown()
 # t.setx(300)
 # window.mainloop()
+
+# Task 5: Random Points (.write())
+# Write a program where the turtle moves to 10 random positions on the
+# screen, drawing a small square at each spot. Display the x and y
+# coordinates of each position next to the squares.
+
+# 1. Import 'turtle' and 'random' library
+# 2. Create a 600x600 turtle screen using 'turtle.Screen()' and
+#    '.setup(width=,height=)' function
+# 3. Within a 'for' loop,
+#         a. Create 'x' variable and assign a random value between
+#            -280 and 280.
+#         b. Create 'y' variable and assign a random value between
+#            -280 and 280.
+        # c. Using '.goto()', position your turtle at the random
+        #    coordinate 'x' and 'y' generated.
+        # d. Using a 'for' loop and the movement commands, draw a 5x5
+        #    small square
+        # e. Reposition your turtle object 40 steps lower than the
+        #    randomly generated x and y coordinate
+        # f. Write the coordinate of the square using '.write()'
+
+   
+
 # ---------------------------------------------------------------------------------------------------
 # TEST REVISION
 
