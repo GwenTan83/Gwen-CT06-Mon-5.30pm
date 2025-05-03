@@ -131,7 +131,7 @@
 # for i in range(len(students)):
 #     print(str(i + 1) + ". " + students[i])
 
-PART 2
+# PART 2
 
-Print numbers from 1 - 10 using a while loop 
-Next, print in multiples of 2
+# Print numbers from 1 - 10 using a while loop 
+# Next, print in multiples of 2
