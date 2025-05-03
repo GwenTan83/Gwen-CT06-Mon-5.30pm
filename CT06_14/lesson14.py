@@ -76,7 +76,7 @@ t.pendown()
 
 for i in range(4):
     t.forward(100)
-    t.left
+    t.left(120)
 
 window.mainloop()
 
