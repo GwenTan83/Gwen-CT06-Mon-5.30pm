@@ -116,7 +116,7 @@ t=turtle.Turtle()
 t.shape("turtle")
 t.fillcdolor("green")
 t.seth(0)
-
+t.penup()
 # ---------------------------------------------------------------------------------------------------
 # TEST REVISION
 
