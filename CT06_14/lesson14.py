@@ -72,6 +72,8 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("green")
 t.seth(0)
+t.pendown()
+\
 window.mainloop()
 
 # TEST REVISION
