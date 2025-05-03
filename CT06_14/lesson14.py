@@ -82,9 +82,11 @@ t.fillcolor("green")
 t.seth(0)
 t.pendown()
 
-for i in range(4):
-    t.forward(100)
-    t.left(90)
+for counter in range(5):
+    for i in range(4):
+        t.forward(100)
+        t.left(90)
+
 
 window.mainloop()
 
