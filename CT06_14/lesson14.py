@@ -164,9 +164,11 @@
 # import random
 # print(random.randint(1,2))
 
-What will be printed?
+# What will be printed?
 num=5
 if num>4:
     print("Num is bigger than 4")
 elif num>2:
-    print
+    print("Num is bigger than 2")
+else:
+    print("Num is 2 or smaller")
