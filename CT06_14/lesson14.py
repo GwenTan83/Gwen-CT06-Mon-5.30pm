@@ -109,7 +109,8 @@
 #    to y = -200
 # 8. End off with a '.mainloop()' function to keep the window open
 
-imp
+import turtle
+window=turtle.Screen()
 # ---------------------------------------------------------------------------------------------------
 # TEST REVISION
 
