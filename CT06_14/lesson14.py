@@ -109,18 +109,18 @@
 #    to y = -200
 # 8. End off with a '.mainloop()' function to keep the window open
 
-import turtle
-window=turtle.Screen()
-window.setup(width=600,  height=400)
-t=turtle.Turtle()
-t.shape("turtle")
-t.fillcolor("green")
-t.seth(0)
-t.penup()
-t.goto(-300,0)
-t.pendown()
-t.setx(300)
-window.mainloop()
+# import turtle
+# window=turtle.Screen()
+# window.setup(width=600,  height=400)
+# t=turtle.Turtle()
+# t.shape("turtle")
+# t.fillcolor("green")
+# t.seth(0)
+# t.penup()
+# t.goto(-300,0)
+# t.pendown()
+# t.setx(300)
+# window.mainloop()
 # ---------------------------------------------------------------------------------------------------
 # TEST REVISION
 
