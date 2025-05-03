@@ -190,4 +190,7 @@
 # False
 
 # What is break statement for?
-Can you us
+# To break a forever loop.
+# Can you use break to exit for loop? YES
+# Cannot use for if else as if else is not a loop.
+# In a loop where we retrieve each student's score, when should we sum up the scores to get the average score? Inside the loop? Outside the loop.
