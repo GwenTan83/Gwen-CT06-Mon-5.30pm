@@ -96,6 +96,6 @@ print(students)
 
 # Size of list
 
-print
+print(len(students))
 # Delete items - 2 ways
 # Add items - 2 ways
