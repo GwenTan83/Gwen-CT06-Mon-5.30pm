@@ -38,6 +38,8 @@ print(planets[2])
 
 planets.append("neptune")
 print(planets)
+
+
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
 
