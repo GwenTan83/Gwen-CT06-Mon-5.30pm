@@ -50,20 +50,7 @@ print(planets)
 
 planet=planets
 for planets in planet:
-    if planets=="mercury":
-        print("mercury")
-    elif planets=="venus":
-        print("venus")
-    elif planets=="earth":
-            print("earth")
-    elif planets=="muskworld":
-        print("muskworld")
-    elif planets=="jupiter":
-        print("jupiter")
-    elif planets=="saturn":
-            print("saturn")
-    else:
-        print("neptune")
+   
 # for planets in :
 #     if grocery=="Apples":
 #         print("Apples, I need 5 of these.")
