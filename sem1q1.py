@@ -23,11 +23,11 @@ while True:
 
 # Write your code here
 
-# Pw=input("What is your password?")
-# if Pw=="superpass123":
-#     print("Access granted!")
-# else:
-#     print("Access denied!")
+Pw=input("What is your password?")
+if Pw=="superpass123":
+    print("Access granted!")
+else:
+    print("Access denied!")
 
 #  Basic List Functions
 # Do the following operations to the list provided below
