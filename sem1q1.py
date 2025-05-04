@@ -23,8 +23,8 @@ while True:
 
 # Write your code here
 
-input("What is your password?")
-if pw True:
+Pw=input("What is your password?")
+if Pw=="superpasss123":
     print("Access granted!")
 else:
     print("Access denied!")
