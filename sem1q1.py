@@ -48,14 +48,13 @@ print(planets)
 del(planets[6])
 print(planets)
 
-# for count in range(100):
-#     print("I will not sling mud at my friend ever!")
-#     print("Teacher!")
-     
-
-# for abc in "I will not sling mud at my friend ever!":
-#     print(abc)
-
+# for grocery in groceries:
+#     if grocery=="Apples":
+#         print("Apples, I need 5 of these.")
+#     elif grocery=="Carrots":
+#         print("Carrots, I need 3 of these.")
+#     else:
+#         print("Grapes, get the FarmFresh brand.")
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
 
