@@ -45,6 +45,7 @@ planets[3]="muskworld"
 
 print(planets)
 
+planets.append("")
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
 
