@@ -6,6 +6,6 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
-number=10
+number=0
 while number<200:
     print(str(number+10))
