@@ -45,7 +45,7 @@ planets[3]="muskworld"
 
 print(planets)
 
-del(planets)
+del(planets[6])
 print(planets)
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
