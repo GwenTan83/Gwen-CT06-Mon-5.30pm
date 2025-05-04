@@ -1,4 +1,4 @@
-
+# task 1 question 1
 number=0
 while True:
     number=number+10
@@ -7,7 +7,7 @@ while True:
         break
 
 
-
+# task 2 question 1
 Pw=input("What is your password?")
 if Pw=="superpass123":
     print("Access granted!")
@@ -15,7 +15,7 @@ else:
     print("Access denied!")
 
 
-
+task
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 
