@@ -29,7 +29,9 @@ while True:
 # else:
 #     print("Access denied!")
 
-
+#  Basic List Functions
+# Do the following operations to the list provided below
+# Write the code below each question.
 
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
@@ -50,3 +52,24 @@ planet=planets
 for planets in planet:
     print(planets)
    
+# for planets in :
+#     if grocery=="Apples":
+#         print("Apples, I need 5 of these.")
+#     elif grocery=="Carrots":
+#         print("Carrots, I need 3 of these.")
+#     else:
+#         print("Grapes, get the FarmFresh brand.")
+
+
+# 2. Write code to append neptune to this list.
+
+
+# 3. Elon Musk has conquered Mars. 
+#    Rename Mars in the list to be "muskworld"
+
+
+# 4. Remove uranus from this list.
+
+
+# 5. Using a for loop, print all the planets 
+#    from this list one by one.
