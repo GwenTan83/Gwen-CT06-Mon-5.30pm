@@ -7,5 +7,5 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 number=10
-while number=10:
+while number<10:
     
