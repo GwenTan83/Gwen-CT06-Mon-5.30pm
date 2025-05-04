@@ -24,7 +24,7 @@
 # Write your code here
 
 Pw=input("What is your password?")
-if Pw=="superpasss123":
+if Pw=="superpass123":
     print("Access granted!")
 else:
     print("Access denied!")
