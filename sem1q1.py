@@ -13,25 +13,7 @@ while True:
     if number==200:
         break
 
-# Task 2
-# Code a password checker to protect your code!
 
-# Assign a password "superpass123" to a variable
-# Ask the user to enter a password
-# If the password matches, print “Access Granted”
-# If the password does not match, print “Access Denied”
-
-# Write your code here
-
-# Pw=input("What is your password?")
-# if Pw=="superpass123":
-#     print("Access granted!")
-# else:
-#     print("Access denied!")
-
-#  Basic List Functions
-# Do the following operations to the list provided below
-# Write the code below each question.
 
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
