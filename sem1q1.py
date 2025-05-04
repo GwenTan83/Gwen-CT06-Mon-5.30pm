@@ -24,7 +24,7 @@ while True:
 # Write your code here
 
 Pw="superpass123"
-input("What password do you want to check?")
+input("What is your password?")
 if Pw=="superpass123":
     print("Access granted!")
 else:
