@@ -21,13 +21,13 @@
 #    these"
 # 4. If name == "Grapes", print "<grocery name>: Get the FarmFresh
 #    brand"
-# for grocery in groceries:
-#     if grocery=="Apples":
-#         print("Apples, I need 5 of these.")
-#     elif grocery=="Carrots":
-#         print("Carrots, I need 3 of these.")
-#     else:
-#         print("Grapes, get the FarmFresh brand.")
+for grocery in groceries:
+    if grocery=="Apples":
+        print("Apples, I need 5 of these.")
+    elif grocery=="Carrots":
+        print("Carrots, I need 3 of these.")
+    else:
+        print("Grapes, get the FarmFresh brand.")
 
 # Task 4: Online Catalogue
 # **Task 4a**:
