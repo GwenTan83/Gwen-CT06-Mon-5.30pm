@@ -34,7 +34,7 @@ while True:
 # Write the code below each question.
 
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
-print
+print(planets[3])
 
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
