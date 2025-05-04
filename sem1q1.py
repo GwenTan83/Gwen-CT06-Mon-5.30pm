@@ -36,7 +36,7 @@ while True:
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 
-append
+del(groceries[2])
 
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
