@@ -8,4 +8,4 @@
 # Write your code here
 number=0
 while number<200:
-    print(str(number/10))
+    print
