@@ -8,4 +8,4 @@
 # Write your code here
 number=10
 while number<200:
-    print
+    print(str(num%10))
