@@ -12,8 +12,14 @@ while True:
     print(number)
     if number==200:
         break
-# while True:
-#     capacity=capacity+1
-#     print(capacity)
-#     if capacity==30:
-#         break
+
+# Task 2
+# Code a password checker to protect your code!
+
+# Assign a password "superpass123" to a variable
+# Ask the user to enter a password
+# If the password matches, print “Access Granted”
+# If the password does not match, print “Access Denied”
+
+# Write your code here
+
