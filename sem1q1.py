@@ -9,4 +9,4 @@
 number=0
 while number<200:
     number=number=10
-    print()
+    print(str(number+10))
