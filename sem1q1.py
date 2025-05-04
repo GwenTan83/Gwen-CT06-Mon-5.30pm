@@ -48,14 +48,29 @@ print(planets)
 del(planets[6])
 print(planets)
 
-for planet in groceries:
-    if grocery=="Apples":
-        print("Apples, I need 5 of these.")
-    elif grocery=="Carrots":
-        print("Carrots, I need 3 of these.")
+planet=planets
+for planets in planet:
+    if planets=="mercury":
+        print("mercury")
+    elif planets=="venus":
+        print("venus")
+    elif planets=="earth":
+            print("earth")
+    elif planets=="muskworld":
+        print("muskworld")
+    elif planets=="jupiter":
+        print("jupiter")
+    elif planets=="saturn":
+            print("saturn")
     else:
-        print("Grapes, get the FarmFresh brand.")
-
+        print("neptune")
+# for planets in :
+#     if grocery=="Apples":
+#         print("Apples, I need 5 of these.")
+#     elif grocery=="Carrots":
+#         print("Carrots, I need 3 of these.")
+#     else:
+#         print("Grapes, get the FarmFresh brand.")
 
 
 # 2. Write code to append neptune to this list.
