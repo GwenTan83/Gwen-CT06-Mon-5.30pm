@@ -9,7 +9,9 @@
 number=10
 while True:
     number=number+10
-    print(str(number+10))# capacity=0
+    print(number)
+    
+    # capacity=0
 # while True:
 #     capacity=capacity+1
 #     print(capacity)
