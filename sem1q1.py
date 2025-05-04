@@ -15,7 +15,7 @@ else:
     print("Access denied!")
 
 
-task
+# task 2 question 2
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 
