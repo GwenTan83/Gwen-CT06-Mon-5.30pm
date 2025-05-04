@@ -10,8 +10,8 @@ number=10
 while True:
     number=number+10
     print(number)
-    
-    # capacity=0
+    if number==200:
+        break
 # while True:
 #     capacity=capacity+1
 #     print(capacity)
