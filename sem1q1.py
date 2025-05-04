@@ -39,9 +39,9 @@ print(planets[2])
 planets.append("neptune")
 print(planets)
 
-print(planets[1])
+print(planets[3])
 
-# students[1]="Gwen"
+# students[3]=""
 
 # print(students)
 
