@@ -1,11 +1,4 @@
-# Task 1
-# Print numbers from 10 to 200 using the while loop
-# Your numbers must be in multiples of 10.
-# 10 must be first number printed, and 200 the last number.
 
-# Example: 10, 20, 30 ..... 180, 190, 200.
-# Note that the numbers do not need to be printed in one line.
-# Write your code here
 number=0
 while True:
     number=number+10
@@ -15,11 +8,11 @@ while True:
 
 
 
-# Pw=input("What is your password?")
-# if Pw=="superpass123":
-#     print("Access granted!")
-# else:
-#     print("Access denied!")
+Pw=input("What is your password?")
+if Pw=="superpass123":
+    print("Access granted!")
+else:
+    print("Access denied!")
 
 
 
