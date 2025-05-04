@@ -50,6 +50,7 @@ print(planets)
 
 planet=planets
 for planets in planet:
+    print(planets)
    
 # for planets in :
 #     if grocery=="Apples":
