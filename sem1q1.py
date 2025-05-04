@@ -41,9 +41,9 @@ print(planets)
 
 print(planets[3])
 
-# students[3]="muskworld"
+students[3]="muskworld"
 
-# print(students)
+print(planets)
 
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
