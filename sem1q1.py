@@ -8,5 +8,5 @@
 # Write your code here
 number=10
 while True:
-    number=number=10/10
+    number=number=10
     print(str(number+10))
