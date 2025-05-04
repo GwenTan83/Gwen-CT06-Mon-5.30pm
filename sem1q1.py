@@ -25,6 +25,8 @@ while True:
 
 Pw="superpass123"
 input("What is your password?")
+while True:
+    
 if Pw=="superpass123":
     print("Access granted!")
 else:
