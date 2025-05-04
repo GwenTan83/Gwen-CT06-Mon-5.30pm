@@ -6,12 +6,12 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
-number=0
-while True:
-    number=number+10
-    print(number)
-    if number==200:
-        break
+# number=0
+# while True:
+#     number=number+10
+#     print(number)
+#     if number==200:
+#         break
 
 # Task 2
 # Code a password checker to protect your code!
