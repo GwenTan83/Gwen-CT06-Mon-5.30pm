@@ -75,4 +75,4 @@
 
 person=input("What is your name?")
 if person=="Ethan":
-    
+    print("Hi Ethan. ")
