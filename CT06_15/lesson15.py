@@ -16,7 +16,7 @@ artist.seth(90)
 artist.pendown(60)
 artist.right(90)
 for _ in range(360):
-    
+    artist.foward(1)
     artist.right(1)
 
 # 1. Import 'turtle' library
