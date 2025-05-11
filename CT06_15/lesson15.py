@@ -10,7 +10,8 @@ artist=turtle.Turtle()
 artist.shape("arrow")
 artist.color("blue")
 window.mainloop()
-artist.penup
+artist.penup()
+artist
 
 # 1. Import 'turtle' library
 # 2. Using '.setup()', create a window 200 in width and 200 in height
