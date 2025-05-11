@@ -8,7 +8,7 @@ window=turtle.Screen()
 window.setup(200,200)
 artist=turtle.Turtle()
 artist.shape("arrow")
-turtle.color("blue")
+artist.color("blue")
 window.mainloop()
 # 1. Import 'turtle' library
 # 2. Using '.setup()', create a window 200 in width and 200 in height
