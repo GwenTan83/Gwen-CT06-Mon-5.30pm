@@ -73,9 +73,9 @@
 # 3. If the person is none of the above, say:
 #         "I don't think you belong here..."
 
-person=input("What is your name?")
 def functionName(greet):
     greet="Hi there!" "My name is Freddo" "I like to swim and eat chicken wings!" "Nice to meet you!"
+    person=input("What is your name?")
     if person=="Ethan":
         print("Hi Ethan. How are your?")
     elif person=="Ben" or person=="Gracie" or person=="Javior":
