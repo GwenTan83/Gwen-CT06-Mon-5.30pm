@@ -27,22 +27,22 @@
 # 5. Using a 'for' loop, draw a circle by moving 1 step each time
 #    before turning 1 degree to the right for 360 times.
 
-import turtle
-window=turtle.Screen()
-window.setup(200,200)
-artist=turtle.Turtle()
-artist.shape("arrow")
-artist.color("blue")
-artist.penup()
-artist.goto(0,0)
-artist.seth(90)
-artist.pendown()
-artist.forward(60)
-artist.right(90)
-for _ in range(360):
-    artist.forward(1)
-    artist.right(1)
-window.mainloop()
+# import turtle
+# window=turtle.Screen()
+# window.setup(200,200)
+# artist=turtle.Turtle()
+# artist.shape("arrow")
+# artist.color("blue")
+# artist.penup()
+# artist.goto(0,0)
+# artist.seth(90)
+# artist.pendown()
+# artist.forward(60)
+# artist.right(90)
+# for _ in range(360):
+#     artist.forward(1)
+#     artist.right(1)
+# window.mainloop()
 
 # 1. Import 'turtle' library
 # **Recap 1d**:
