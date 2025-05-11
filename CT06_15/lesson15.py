@@ -13,7 +13,7 @@ artist.penup()
 artist.goto(0,0)
 artist.seth(90)
 artist.pendown
-
+artist.forward(60)
 artist.right(90)
 for _ in range(360):
     artist.forward(1)
