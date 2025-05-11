@@ -7,7 +7,7 @@ import turtle
 window=turtle.Screen()
 window.setup(200,200)
 artist=turtle.Turtle()
-turtle.shape("arrow")
+artist.shape("arrow")
 turtle.color("blue")
 window.mainloop()
 # 1. Import 'turtle' library
