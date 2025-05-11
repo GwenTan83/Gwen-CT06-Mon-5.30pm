@@ -35,3 +35,4 @@
 
 #    "Current turtle position: <x>, <y>"
 
+import turtle
