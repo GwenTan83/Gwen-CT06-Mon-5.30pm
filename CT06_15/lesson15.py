@@ -15,7 +15,8 @@ artist.goto(0,0)
 artist.seth(90)
 artist.pendown(60)
 artist.right(90)
-for artist in range(360):
+for _ in range(360):
+    
     artist.right(1)
 
 # 1. Import 'turtle' library
