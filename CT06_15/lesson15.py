@@ -3,6 +3,8 @@
 # ## Recap 1: Turtle drawing
 # **Recap 1a**:
 # Using the 'turtle' library, create a 200x200 window
+import turtle
+window=turtle.screen
 
 # 1. Import 'turtle' library
 # 2. Using '.setup()', create a window 200 in width and 200 in height
@@ -35,5 +37,3 @@
 
 #    "Current turtle position: <x>, <y>"
 
-import turtle
-window=turtle.screen
