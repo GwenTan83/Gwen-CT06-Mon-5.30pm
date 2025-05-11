@@ -78,5 +78,4 @@ def functionName(greet):
     if person=="Ethan":
         print("Hi Ethan. How are your?")
     elif person=="Ben" or person=="Gracie" or person=="Javior":
-        print("Hi there!")
-        print("M")
+        print(greet)
