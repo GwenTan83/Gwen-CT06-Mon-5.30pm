@@ -14,7 +14,7 @@ artist.penup()
 artist.goto(0,0)
 artist.seth(90)
 artist.pendown(60)
-artist.right()
+artist.right(90)
 
 # 1. Import 'turtle' library
 # 2. Using '.setup()', create a window 200 in width and 200 in height
