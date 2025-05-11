@@ -81,4 +81,4 @@ def functionName(greet):
     elif person=="Ben" or person=="Gracie" or person=="Javior":
         print(greet)
     else:
-        print("")
+        print("I don't think you belong here...")
