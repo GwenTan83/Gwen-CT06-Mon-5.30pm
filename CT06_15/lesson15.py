@@ -73,7 +73,7 @@
 # 3. If the person is none of the above, say:
 #         "I don't think you belong here..."
 
-def functionName(greet):
+def greet():
     greet=("Hi there!" "My name is Freddo" "I like to swim and eat chicken wings!" "Nice to meet you!")
 
 person=input("What is your name?")
