@@ -74,7 +74,10 @@
 #         "I don't think you belong here..."
 
 def greet():
-    print("Hi there!" "My name is Freddo" "I like to swim and eat chicken wings!" "Nice to meet you!")
+    print("Hi there!")
+    print("My name is Freddo")
+    print("I like to swim and eat chicken wings!")
+    print("Nice to meet you!")
 
 person=input("What is your name?")
 
