@@ -81,6 +81,6 @@ person=input("What is your name?")
 if person=="Ethan":
     print("Hi Ethan. How are your?")
 elif person=="Ben" or person=="Gracie" or person=="Javior":
-    print(greet)
+    greet()
 else:
     print("I don't think you belong here...")
