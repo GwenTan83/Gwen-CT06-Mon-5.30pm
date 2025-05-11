@@ -36,3 +36,4 @@
 #    "Current turtle position: <x>, <y>"
 
 import turtle
+window=turtle.screen
