@@ -78,3 +78,4 @@ if person=="Ethan":
     print("Hi Ethan. How are your?")
 elif person=="Gracie":
     print("Hi there!")
+    print(:)
