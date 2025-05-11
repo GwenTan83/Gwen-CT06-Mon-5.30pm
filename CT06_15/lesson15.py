@@ -75,7 +75,8 @@
 
 person=input("What is your name?")
 def functionName(greet):
-    greet=""
+    greet="Hi there!"
+    
     if person=="Ethan":
         print("Hi Ethan. How are your?")
     elif person=="Ben" or person=="Gracie" or person=="Javior":
