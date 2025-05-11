@@ -77,4 +77,4 @@ person=input("What is your name?")
 if person=="Ethan":
     print("Hi Ethan. How are your?")
 elif person=="Gracie":
-    print
+    print("Hi there!")
