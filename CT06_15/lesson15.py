@@ -18,6 +18,7 @@ artist.right(90)
 for _ in range(360):
     artist.forward(1)
     artist.right(1)
+window.mainloop()
 
 # 1. Import 'turtle' library
 # 2. Using '.setup()', create a window 200 in width and 200 in height
