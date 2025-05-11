@@ -74,8 +74,9 @@
 #         "I don't think you belong here..."
 
 person=input("What is your name?")
+
 if person=="Ethan":
     print("Hi Ethan. How are your?")
 elif person=="Gracie":
     print("Hi there!")
-    print(:)
+    print("M")
