@@ -5,7 +5,7 @@
 # Using the 'turtle' library, create a 200x200 window
 import turtle
 window=turtle.Screen()
-
+window.setup(200,200)
 # 1. Import 'turtle' library
 # 2. Using '.setup()', create a window 200 in width and 200 in height
 # 3. Add a '.mainloop()' function to keep the window open
