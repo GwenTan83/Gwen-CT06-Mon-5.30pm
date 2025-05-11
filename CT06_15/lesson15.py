@@ -44,7 +44,7 @@ for artist in range(360):
 # Modify your previous code to print the position of your turtle at the
 # end of the drawing.
 
-# 1. Using '.xcor()' and 'ycor()', print onto the console your turtle's
+# 1. Using '.xcor()' and 'ycor()' and '.write(text)', print onto the console your turtle's
 #    last coordinates in the following format:
 
 #    "Current turtle position: <x>, <y>"
