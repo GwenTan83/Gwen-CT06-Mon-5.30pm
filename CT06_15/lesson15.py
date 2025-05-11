@@ -12,6 +12,7 @@ artist.color("blue")
 window.mainloop()
 artist.penup()
 artist.goto(0,0)
+artist.seth(90)
 
 
 # 1. Import 'turtle' library
