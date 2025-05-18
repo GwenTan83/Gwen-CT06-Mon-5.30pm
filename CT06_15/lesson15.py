@@ -73,17 +73,48 @@
 # 3. If the person is none of the above, say:
 #         "I don't think you belong here..."
 
-def greet():
-    print("Hi there!")
-    print("My name is Freddo")
-    print("I like to swim and eat chicken wings!")
-    print("Nice to meet you!")
+# def greet():
+#     print("Hi there!")
+#     print("My name is Freddo")
+#     print("I like to swim and eat chicken wings!")
+#     print("Nice to meet you!")
 
-person=input("What is your name?")
+# person=input("What is your name?")
 
-if person=="Ethan":
-    print("Hi Ethan. How are your?")
-elif person=="Ben" or person=="Gracie" or person=="Javior":
-    greet()
-else:
-    print("I don't think you belong here...")
+# if person=="Ethan":
+#     print("Hi Ethan. How are you?")
+# elif person=="Ben" or person=="Gracie" or person=="Javior":
+#     greet()
+# else:
+#     print("I don't think you belong here...Get out")
+
+## Task 2: Square
+# Using the 'turtle' library, create a function that draws a square.
+# Use the function you have created to draw the pattern shown on the
+# screen.
+
+# 1. Import the 'turtle' library
+# 2. Set up the screen using 'turtle.Screen()'
+# 3. Create a function, "draw_square" that will draw a 20x20 square
+# 4. Using 'for' loops and the "draw_square" function you have created,
+#    draw the pattern shown on the screen.
+# 5. You will have to reposition your turtle before calling the
+#    "draw_square" function each time.
+
+import turtle
+window=turtle.Screen()
+window.setup(500,500)
+t=turtle.Turtle()
+def draw_square():
+    t.pendown()
+    for _ in range(4):
+        t.forward(20)
+        t.right(90)
+t.penup()
+t.goto(0,0)
+num_squares=6
+for _ in range(3):
+    for _ in range(num_squares):
+            draw_square()
+            t.forward(20)
+    t.backward(num_squares * 20)
