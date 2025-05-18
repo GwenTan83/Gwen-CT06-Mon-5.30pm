@@ -128,5 +128,10 @@ for _ in range(3):
 # 3. Ask the user for their name
 # 4. Using the 'greet()' function, print the greeting
 
-def greet():
-     print("")
+
+
+def greet(name):
+    return "Hello there " + name + "!"
+
+userName = input("What is your name?")
+print(greet(userName))
