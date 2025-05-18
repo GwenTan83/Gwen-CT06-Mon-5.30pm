@@ -19,9 +19,6 @@ screenHeight=500
 screen=setup_screen(screenWidth,screenHeight)
 ball=create_blue_ball()
 
-# Keeps window open
-screen.mainloop()
-
 # Existing code to create create_ball function
 
 # Move ball by 'dx' and 'dy'
@@ -36,6 +33,7 @@ dy=2
 # Main loop
 while True:
     move_ball(ball,dx,dy)
+    
 screen.mainloop()
 
 
