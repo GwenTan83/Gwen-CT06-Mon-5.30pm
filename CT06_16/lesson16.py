@@ -20,7 +20,7 @@ def create_blue_ball():
     return ball
 screenWidth=300
 screenHeight=500
-screen=setup_screen
+screen=setup_screen(screenWidth,screenHeight)
 
 # Keeps window open
 screen.mainloop()
