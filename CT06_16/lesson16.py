@@ -36,5 +36,6 @@ while True:
 
 # Existing code to create move_ball function
 
+# Checking 
 screen.mainloop()
 
