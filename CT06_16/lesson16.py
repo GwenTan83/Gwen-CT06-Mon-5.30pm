@@ -24,5 +24,7 @@ screen.mainloop()
 
 # Existing code to create create_ball function
 
-# Move ball by 'dx
+# Move ball by 'dx' and 'dy'
+def move_ball(ball,dx,dy):
+    create
 
