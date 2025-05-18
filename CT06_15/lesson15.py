@@ -128,8 +128,6 @@ for _ in range(3):
 # 3. Ask the user for their name
 # 4. Using the 'greet()' function, print the greeting
 
-
-
 def greet(name):
     return "Hello there " + name + "!"
 
