@@ -21,4 +21,5 @@ def create_blue_ball():
     ball.penup()
     return ball
 
-# 
+# Setup code
+screen
