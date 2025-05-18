@@ -41,7 +41,7 @@ dx=2
 dy=2
 
 def check_y(ball,screenHeight):
-    if ball.xcor() > (screenHeight/2) or ball.xcor() < (-screenWidth/2):
+    if ball.ycor() > (screenHeight/2) or ball.ycor() < (-screenWidth/2):
         return True
 # Main loop
 while True:
