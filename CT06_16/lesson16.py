@@ -18,3 +18,4 @@ def create_blue_ball():
     ball.shape("circle")
     ball.color("blue")
     ball.penup()
+    return ball
