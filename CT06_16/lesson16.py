@@ -22,4 +22,4 @@ def create_blue_ball():
     return ball
 
 # Setup code
-# screenWidth=300 
+screenWidth=300   
