@@ -26,6 +26,7 @@ screen.mainloop()
 
 # Move ball by 'dx' and 'dy'
 def move_ball(ball,dx,dy):
-    while move_ball.setx(5):
-        move_ball
+    while move_ball.setx(0):
+        move_ball(5)
+
 
