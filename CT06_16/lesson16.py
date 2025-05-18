@@ -21,6 +21,7 @@ def create_blue_ball():
     ball.penup()
     return ball
 
+
 # Keeps window open
 screen.mainloop()
 
