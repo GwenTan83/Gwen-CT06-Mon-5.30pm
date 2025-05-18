@@ -16,4 +16,5 @@ screen.mainloop()
 def create_blue_ball():
     ball=turtle.Turtle()
     ball.shape("circle")
+    ball.color("blue")
     
