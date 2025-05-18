@@ -34,6 +34,7 @@ dy=2
 while True:
     move_ball(ball,dx,dy)
 
-screen.mainloop()
 
+
+screen.mainloop()
 
