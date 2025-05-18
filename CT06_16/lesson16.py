@@ -7,9 +7,6 @@ def setup_screen(screenWidth,screenHeight):
     screen.setup(width=screenWidth,height=screenHeight)
     return screen
 
-
-
-
 # Setup code
 def create_blue_ball():
     ball=turtle.Turtle()
