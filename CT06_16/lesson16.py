@@ -48,6 +48,8 @@ while True:
     move_ball(ball,dx,dy)
     if check_x(ball,screenWidth):
         dx*=-1
+    if check_y(ball,screenHeight):
+        dy*=-1
 
 while True:
     move_ball(ball,dx,dy)
