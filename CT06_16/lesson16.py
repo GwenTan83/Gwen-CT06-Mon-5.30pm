@@ -14,4 +14,5 @@ screen=setup_screen(screenWidth,screenHeight)
 screen.mainloop()
 
 def create_blue_ball():
-    ball
+    ball=turtle.Turtle()
+    
