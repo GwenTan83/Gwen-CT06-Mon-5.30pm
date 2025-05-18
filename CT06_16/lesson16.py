@@ -23,3 +23,4 @@ def create_blue_ball():
 
 # Setup code
 screenWidth=300
+screenHeight
