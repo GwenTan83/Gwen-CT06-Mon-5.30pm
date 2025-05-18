@@ -39,9 +39,11 @@ def check_x(ball,screenWidth):
 # Exisiting code to create 'ball' turtle object
 dx=2
 dy=2
+
+def check_x(ball,screenWidth):
+    if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenWidth/2):
+        return True
 # Main loop
-
-
 while True:
     move_ball(ball,dx,dy)
     if check_x(ball,screenWidth):
