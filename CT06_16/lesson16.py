@@ -27,5 +27,5 @@ screen.mainloop()
 # Move ball by 'dx' and 'dy'
 def move_ball(ball,dx,dy):
     ball.setx(ball.xcor()+dx)
-    
+    ball.sety(ball.ycor)
 
