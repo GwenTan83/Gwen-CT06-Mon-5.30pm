@@ -13,7 +13,7 @@ screen=setup_screen(screenWidth,screenHeight)
 # Keeps window open
 screen.mainloop()
 
-# Existing code to create
+# Existing code to create setup_screen function
 def create_blue_ball():
     ball=turtle.Turtle()
     ball.shape("circle")
