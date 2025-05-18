@@ -32,6 +32,9 @@ dy=2
 
 # Main loop
 
+# Existing code to create move_ball function
+
+# Checking for border (x-axis)
 def check_x(ball,screenWidth):
     if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenwidth/2):
         return True
@@ -40,8 +43,5 @@ def check_x(ball,screenWidth):
 while True:
     move_ball(ball,dx,dy)
 
-# Existing code to create move_ball function
-
-# Checking for border (x-axis)
 screen.mainloop()
 
