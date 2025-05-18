@@ -10,4 +10,4 @@ screenWidth=300
 screenHeight=500
 screen=setup_screen(screenWidth,screenHeight)
 
-
+screen.mainloop()
