@@ -33,7 +33,7 @@ def move_ball(ball,dx,dy):
 
 # Checking for border (x-axis)
 def check_x(ball,screenWidth):
-    if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenwidth/2):
+    if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenWidth/2):
         return True
     
 # Exisiting code to create 'ball' turtle object
