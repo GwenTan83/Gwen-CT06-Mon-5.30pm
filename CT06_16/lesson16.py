@@ -36,6 +36,6 @@ dy=2
 # Main loop
 while True:
     move_ball(ball,dx,dy)
-
+screen.mainloop()
 
 
