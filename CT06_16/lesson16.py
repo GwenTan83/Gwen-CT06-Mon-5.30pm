@@ -26,5 +26,5 @@ screen.mainloop()
 
 # Move ball by 'dx' and 'dy'
 def move_ball(ball,dx,dy):
-    create
+    w
 
