@@ -22,5 +22,7 @@ ball=create_blue_ball()
 # Keeps window open
 screen.mainloop()
 
-# Existing code to create create_ball 
+# Existing code to create create_ball function
+
+# 
 
