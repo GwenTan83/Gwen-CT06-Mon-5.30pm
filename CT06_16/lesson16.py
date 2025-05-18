@@ -13,4 +13,5 @@ screen=setup_screen(screenWidth,screenHeight)
 # Keeps window open
 screen.mainloop()
 
-create_b
+def create_blue_ball():
+    ball
