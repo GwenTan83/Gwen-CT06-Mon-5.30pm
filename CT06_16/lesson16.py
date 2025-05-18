@@ -29,5 +29,6 @@ def move_ball(ball,dx,dy):
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
 
-# Exisiting code to create 'ball' 
+# Exisiting code to create 'ball' turtle object
+
 
