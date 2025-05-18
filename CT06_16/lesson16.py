@@ -45,5 +45,8 @@ while True:
     if check_x(ball,screenWidth):
         dx*=-1
 
+def check_x(ball,screenWidth):
+    if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenWidth/2):
+        return True
 screen.mainloop()
 
