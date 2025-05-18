@@ -12,3 +12,5 @@ screenHeight=500
 screen=setup_screen(screenWidth,screenHeight)
 # Keeps window open
 screen.mainloop()
+
+create_b
