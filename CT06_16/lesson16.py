@@ -36,11 +36,7 @@ dy=2
 # Checking for border (x-axis)
 def check_x(ball,screenWidth):
     if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenwidth/2):
-        return True
-
-# Setup code
-dx=2
-dy
+        return T
 
 # Main loop
 while True:
