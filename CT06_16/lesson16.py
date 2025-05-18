@@ -11,8 +11,6 @@ def setup_screen(screenWidth,screenHeight):
 
 
 # Setup code
-screenWidth=300
-screenHeight=500
 screen=setup_screen(screenWidth,screenHeight)
 def create_blue_ball():
     ball=turtle.Turtle()
@@ -20,6 +18,8 @@ def create_blue_ball():
     ball.color("blue")
     ball.penup()
     return ball
+screenWidth=300
+screenHeight=500
 
 
 # Keeps window open
