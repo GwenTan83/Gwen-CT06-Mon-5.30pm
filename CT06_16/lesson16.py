@@ -39,7 +39,8 @@ def check_x(ball,screenWidth):
         return True
 
 # Setup code
-
+dx=2
+dy
 
 # Main loop
 while True:
