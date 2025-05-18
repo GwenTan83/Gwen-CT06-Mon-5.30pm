@@ -1,7 +1,7 @@
 print("Hello from lesson 16")
 
 import turtle
-# retur
+# returns a window that is screenWidth
 def setup_screen(screenWidth,screenHeight):
     screen=turtle.Screen()
     screen.setup(width=screenWidth,height=screenHeight)
