@@ -26,8 +26,8 @@ screen.mainloop()
 
 # Move ball by 'dx' and 'dy'
 def move_ball(ball,dx,dy):
-    ball.setx(ball.xcor()+dx)
-    ball.sety(ball.ycor()+dy)
+    ball.setx(ball.xcor(2)+dx)
+    ball.sety(ball.ycor(2)+dy)
 
 # Exisiting code to create 'ball' turtle object
 dx=2
@@ -37,5 +37,5 @@ dy=2
 while True:
     move_ball(ball,dx,dy)
 
-screen.mainloop()
+
 
